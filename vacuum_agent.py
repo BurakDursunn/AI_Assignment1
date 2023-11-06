@@ -23,6 +23,7 @@ class VacuumAgent:
         elif current_room.get_room_letter() == 'C':
             actions.append('left')
 
+        # Decide the action for the agent
         return random.choice(actions)
 
     # Getters and setters

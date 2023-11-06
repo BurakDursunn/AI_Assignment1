@@ -10,7 +10,13 @@ class Room:
         self.dirt_prob = dirt_prob
 
     def update_dirt(self):
-        self.is_dirty = random.random() < self.dirt_prob
+        # Randomly update the dirtiness if is already dirty stay dirty
+        if self.is_dirty:
+            return
+        else:
+            if random.random() < self.dirt_prob:
+                self.is_dirty = True
+                return
 
     def room_dirty(self):
         if self.is_dirty:
