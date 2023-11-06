@@ -162,22 +162,30 @@ def update_room_states(action, agent, room_A, room_B, room_C):
         pass
 
     # Update the agent's score, If the agent is A score system is get 1 point for each clean room, if the agent is B score system is get 1 point for each clean room and for left and right actions get -0.5 points
+    calculate_points(agent, room_A, room_B, room_C, action)
+
+
+def calculate_points(agent, room_A, room_B, room_C, action):
+    points = 0.0
+    # Calculate points for each agent, If the agent is A score system is get 1 point for each clean room, if the agent is B score system is get 1 point for each clean room and for left and right actions get -0.5 points
     if agent.get_agent_name() == "A":
         if not room_A.get_is_dirty():
-            agent.set_current_score(agent.get_current_score() + 1)
+            points += 1
         if not room_B.get_is_dirty():
-            agent.set_current_score(agent.get_current_score() + 1)
+            points += 1
         if not room_C.get_is_dirty():
-            agent.set_current_score(agent.get_current_score() + 1)
+            points += 1
     elif agent.get_agent_name() == "B":
         if not room_A.get_is_dirty():
-            agent.set_current_score(agent.get_current_score() + 1)
+            points += 1
         if not room_B.get_is_dirty():
-            agent.set_current_score(agent.get_current_score() + 1)
+            points += 1
         if not room_C.get_is_dirty():
-            agent.set_current_score(agent.get_current_score() + 1)
+            points += 1
         if action == "left" or action == "right":
-            agent.set_current_score(agent.get_current_score() - 0.5)
+            points -= 0.5
+
+    agent.set_current_score(agent.get_current_score() + points)
 
 
 if __name__ == "__main__":
