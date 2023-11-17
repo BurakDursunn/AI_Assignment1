@@ -22,24 +22,51 @@ class VacuumAI:
         self.discount_factor = discount_factor
         self.q_values = np.zeros((3, 4))
 
-    def decide_action(self, current_room):
+    def decide_action(self, current_room, is_dirty):
         # Decide the action for the agent using numpy
         if np.random.random() < self.exploration_prob:
+            decided_action = ""
             # Explore: Choose a random action
             if current_room == "A":
-                return np.random.choice(["suck", "no-op", "right"])
+                decided_action = np.random.choice(["suck", "no-op", "right"])
+                if decided_action == "no-op" and is_dirty:
+                    decided_action = "suck"
+                elif decided_action == "suck" and not is_dirty:
+                    decided_action = "no-op"
+                return decided_action
             elif current_room == "B":
-                return np.random.choice(["suck", "no-op", "left", "right"])
+                decided_action = np.random.choice(
+                    ["suck", "no-op", "left", "right"])
+                if decided_action == "no-op" and is_dirty:
+                    decided_action = "suck"
+                elif decided_action == "suck" and not is_dirty:
+                    decided_action = "no-op"
+                return decided_action
             elif current_room == "C":
-                return np.random.choice(["suck", "no-op", "left"])
+                decided_action = np.random.choice(["suck", "no-op", "left"])
+                if decided_action == "no-op" and is_dirty:
+                    decided_action = "suck"
+                elif decided_action == "suck" and not is_dirty:
+                    decided_action = "no-op"
+                return decided_action
         else:
+            decided_action = ""
             # Exploit: Choose the action with the highest Q value
             if current_room == "A":
-                return self.enum_to_str(np.argmax(self.q_values[enum_room["A"]]), "action")
+                decided_action = self.enum_to_str(
+                    np.argmax(self.q_values[enum_room["A"]]), "action")
             elif current_room == "B":
-                return self.enum_to_str(np.argmax(self.q_values[enum_room["B"]]), "action")
+                decided_action = self.enum_to_str(
+                    np.argmax(self.q_values[enum_room["B"]]), "action")
             elif current_room == "C":
-                return self.enum_to_str(np.argmax(self.q_values[enum_room["C"]]), "action")
+                decided_action = self.enum_to_str(
+                    np.argmax(self.q_values[enum_room["C"]]), "action")
+
+            if decided_action == "suck" and not is_dirty:
+                decided_action = "no-op"
+            elif decided_action == "no-op" and is_dirty:
+                decided_action = "suck"
+            return decided_action
 
     def update_q_values(self, current_room, next_room, action, reward, agent_name):
         # If agent is B, then update the q values, else icrement punishment

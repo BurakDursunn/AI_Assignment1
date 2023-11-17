@@ -57,7 +57,7 @@ def run_simulation_for_agent(agent, PA, PB, PC, num_simulations, num_steps, conf
 
         # Create QLearningAI object
         vacuum_ai = VacuumAI(learning_rate=0.1, exploration_prob=0.1,
-                             discount_factor=0.9)
+                             discount_factor=0.6)
 
         file_name = "output/agent_{}_configuration_{}_simulation_{}.txt".format(
             agent.get_agent_name(), configuration, i + 1)
@@ -101,7 +101,8 @@ def run_simulation(agent, room_A, room_B, room_C, step, file_name, vacuum_ai):
 
     # Decide the action for the agent using the RewardBasedAI object
     current_room = agent.get_current_room().get_room_letter()
-    action = vacuum_ai.decide_action(current_room)
+    action = vacuum_ai.decide_action(
+        current_room, agent.get_current_room().get_is_dirty())
 
     # print("{}\n".format(action))
 
