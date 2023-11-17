@@ -11,5 +11,5 @@ pip install numpy
 Once you have Python 3 and the `numpy` package installed, you can run the program by running the following command in the terminal:
 
 ```
-python3 vacuum_cleaner.py
+python3 vacuum_simulation.py
 ```
