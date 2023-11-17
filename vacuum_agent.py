@@ -10,18 +10,7 @@ class VacuumAgent:
 
     # Decide the action for the agent, for left and right, if room is A only go right, if room is B go left or right, if room is C only go left
     def decide_action(self):
-        # Get the current room for the agent
-        current_room = self.current_room
-
-        actions = ['suck', 'no-op']
-
-        if current_room.get_room_letter() == 'A':
-            actions.append('right')
-        elif current_room.get_room_letter() == 'B':
-            actions.append('left')
-            actions.append('right')
-        elif current_room.get_room_letter() == 'C':
-            actions.append('left')
+        actions = ['suck', 'no-op', 'left', 'right']
 
         # Decide the action for the agent
         return random.choice(actions)

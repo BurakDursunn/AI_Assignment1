@@ -1,8 +1,8 @@
 import random
 import time
 import os
+from VacuumAI import VacuumAI
 from vacuum_agent import VacuumAgent
-from vacuum_ai import VacuumAi
 from room import Room
 
 
@@ -39,6 +39,9 @@ def main(PA, PB, PC, num_simulations, num_steps, configuration):
 def run_simulation_for_agent(agent, PA, PB, PC, num_simulations, num_steps, configuration, results):
     # Run the simulation num_simulations times
     for i in range(num_simulations):
+        # Reset random seed
+        random.seed(int(time.time()))
+
         print("Simulation #{} for agent {} with configuration #{}\n".format(
             i + 1, agent.get_agent_name(), configuration))
         # Create the rooms
@@ -52,8 +55,9 @@ def run_simulation_for_agent(agent, PA, PB, PC, num_simulations, num_steps, conf
         # Initialy set the agent to room B
         agent.set_current_room(room_B)
 
-        # Create vacuum AI
-        vacuum_ai = VacuumAi()
+        # Create QLearningAI object
+        vacuum_ai = VacuumAI(learning_rate=0.1, exploration_prob=0.1,
+                             discount_factor=0.9)
 
         file_name = "output/agent_{}_configuration_{}_simulation_{}.txt".format(
             agent.get_agent_name(), configuration, i + 1)
@@ -95,24 +99,24 @@ def run_simulation(agent, room_A, room_B, room_C, step, file_name, vacuum_ai):
 
     # print("{}\n".format(current_state))
 
-    # Decide the action for the agent with the vacuum AI
-    # action = vacuum_ai.decide_action(agent, room_A, room_B, room_C)
-    action = agent.decide_action()
+    # Decide the action for the agent using the RewardBasedAI object
+    current_room = agent.get_current_room().get_room_letter()
+    action = vacuum_ai.decide_action(current_room)
 
     # print("{}\n".format(action))
 
     # Update the room states based on the action
     update_room_states(action, agent, room_A, room_B, room_C)
 
-    # Update the vacuum AI's guess of the room dirty probabilities
-    # vacuum_ai.guess_room_dirty_prob(room_A, room_B, room_C)
+    # Update the Q-values using the RewardBasedAI object
+    reward = agent.get_current_score()
+    next_room = agent.get_current_room().get_room_letter()
+    vacuum_ai.update_q_values(current_room, next_room, action, reward)
 
-    # Save guessed room dirty probabilities to a variable called "guesses" (hint: use the format method)
-    guesses = "{}, {}, {}".format(vacuum_ai.roomA_dirty_prob,
-                                  vacuum_ai.roomB_dirty_prob, vacuum_ai.roomC_dirty_prob)
+    # Save the updated Q-values to a variable called "guesses"
+    guesses = vacuum_ai.q_values
 
     # Get updated state of the rooms and agent, syntax string "agent.current_room, room_A.is_dirty, room_B.is_dirty, room_C.is_dirty"
-
     updated_state = "{}, {}, {}, {}".format(agent.get_current_room(
     ).get_room_letter(), room_A.room_dirty(), room_B.room_dirty(), room_C.room_dirty())
 
@@ -234,6 +238,8 @@ if __name__ == "__main__":
         f.write("Results\n\n")
 
     for config in CONFIGURATION["Probilities"]:
+        # Reset random seed
+        random.seed(int(time.time()))
 
         print("Configuration #{}\n".format(configuration))
 
