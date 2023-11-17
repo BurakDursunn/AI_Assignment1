@@ -4,6 +4,7 @@ import os
 from VacuumAI import VacuumAI
 from vacuum_agent import VacuumAgent
 from room import Room
+import numpy as np
 
 
 def main(PA, PB, PC, num_simulations, num_steps, configuration):
@@ -28,11 +29,25 @@ def main(PA, PB, PC, num_simulations, num_steps, configuration):
     print("Average score for agent A: {}\n".format(average_score_A))
     print("Average score for agent B: {}\n".format(average_score_B))
 
+    # Calculate the standard deviation for each agent using numpy and round to 2 decimal places
+    standard_deviation_A = round(np.std(results_for_agent_A), 2)
+    standard_deviation_B = round(np.std(results_for_agent_B), 2)
+
+    # Print the standard deviation for each agent
+    print("Standard deviation for agent A: {}\n".format(
+        standard_deviation_A))
+    print("Standard deviation for agent B: {}\n".format(
+        standard_deviation_B))
+
     # Write the average score for each agent to a file
     with open("output/average_score.txt", "a") as f:
         f.write("Configuration #{}\n".format(configuration))
         f.write("Average score for agent A: {}\n".format(average_score_A))
         f.write("Average score for agent B: {}\n".format(average_score_B))
+        f.write("Standard deviation for agent A: {}\n".format(
+            standard_deviation_A))
+        f.write("Standard deviation for agent B: {}\n".format(
+            standard_deviation_B))
         f.write("\n")
 
 

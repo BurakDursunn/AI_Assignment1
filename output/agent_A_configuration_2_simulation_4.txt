@@ -22,9 +22,9 @@ Score: 2.0
 
 Step 3
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
@@ -92,9 +92,9 @@ Score: 9.0
 
 Step 10
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -102,9 +102,9 @@ Score: 10.0
 
 Step 11
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -122,9 +122,9 @@ Score: 12.0
 
 Step 13
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -132,9 +132,9 @@ Score: 13.0
 
 Step 14
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
@@ -152,9 +152,9 @@ Score: 15.0
 
 Step 16
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -162,9 +162,9 @@ Score: 16.0
 
 Step 17
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
@@ -172,9 +172,9 @@ Score: 17.0
 
 Step 18
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -182,9 +182,9 @@ Score: 18.0
 
 Step 19
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
@@ -202,9 +202,9 @@ Score: 20.0
 
 Step 21
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
@@ -212,9 +212,9 @@ Score: 21.0
 
 Step 22
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -252,9 +252,9 @@ Score: 25.0
 
 Step 26
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -264,223 +264,73 @@ Step 27
 
 Current state: B, D, C, D
 
-Action: no-op
+Action: left
 
-Updated state: B, D, C, D
+Updated state: A, D, C, D
 
 Score: 27.0
 
 Step 28
 
-Current state: B, D, C, D
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
-
-Score: 28.0
-
-Step 29
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 29.0
 
-Step 30
+Step 29
 
-Current state: B, D, C, D
+Current state: A, C, C, D
 
 Action: no-op
 
-Updated state: B, D, C, D
-
-Score: 30.0
-
-Step 31
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 31.0
 
-Step 32
+Step 30
 
-Current state: B, D, D, D
+Current state: A, C, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
-
-Score: 32.0
-
-Step 33
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 33.0
 
-Step 34
+Step 31
 
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 34.0
-
-Step 35
-
-Current state: B, D, C, D
+Current state: A, C, C, D
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 35.0
 
-Step 36
+Step 32
 
-Current state: B, D, C, D
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
-
-Score: 36.0
-
-Step 37
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 37.0
 
-Step 38
+Step 33
 
-Current state: B, D, C, D
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
-
-Score: 38.0
-
-Step 39
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 39.0
 
-Step 40
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 40.0
-
-Step 41
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 41.0
-
-Step 42
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 42.0
-
-Step 43
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 43.0
-
-Step 44
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 44.0
-
-Step 45
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 45.0
-
-Step 46
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 46.0
-
-Step 47
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 47.0
-
-Step 48
-
-Current state: B, D, D, D
-
-Action: left
-
-Updated state: A, D, D, D
-
-Score: 47.0
-
-Step 49
+Step 34
 
 Current state: A, D, D, D
 
@@ -488,9 +338,89 @@ Action: suck
 
 Updated state: A, C, D, D
 
+Score: 40.0
+
+Step 35
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 41.0
+
+Step 36
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 42.0
+
+Step 37
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 43.0
+
+Step 38
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 44.0
+
+Step 39
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 45.0
+
+Step 40
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 46.0
+
+Step 41
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 47.0
+
+Step 42
+
+Current state: B, C, D, D
+
+Action: left
+
+Updated state: A, C, D, D
+
 Score: 48.0
 
-Step 50
+Step 43
 
 Current state: A, D, D, D
 
@@ -500,7 +430,7 @@ Updated state: A, C, D, D
 
 Score: 49.0
 
-Step 51
+Step 44
 
 Current state: A, C, D, D
 
@@ -510,17 +440,17 @@ Updated state: A, C, D, D
 
 Score: 50.0
 
-Step 52
+Step 45
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 51.0
 
-Step 53
+Step 46
 
 Current state: A, C, D, D
 
@@ -530,7 +460,7 @@ Updated state: A, C, D, D
 
 Score: 52.0
 
-Step 54
+Step 47
 
 Current state: A, D, D, D
 
@@ -540,17 +470,17 @@ Updated state: A, C, D, D
 
 Score: 53.0
 
-Step 55
+Step 48
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
 Score: 54.0
 
-Step 56
+Step 49
 
 Current state: A, D, D, D
 
@@ -560,7 +490,7 @@ Updated state: A, C, D, D
 
 Score: 55.0
 
-Step 57
+Step 50
 
 Current state: A, C, D, D
 
@@ -570,17 +500,17 @@ Updated state: A, C, D, D
 
 Score: 56.0
 
-Step 58
+Step 51
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
 Score: 57.0
 
-Step 59
+Step 52
 
 Current state: A, C, D, D
 
@@ -590,7 +520,7 @@ Updated state: A, C, D, D
 
 Score: 58.0
 
-Step 60
+Step 53
 
 Current state: A, C, D, D
 
@@ -600,7 +530,7 @@ Updated state: A, C, D, D
 
 Score: 59.0
 
-Step 61
+Step 54
 
 Current state: A, C, D, D
 
@@ -610,27 +540,27 @@ Updated state: A, C, D, D
 
 Score: 60.0
 
-Step 62
+Step 55
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
 Score: 61.0
 
-Step 63
+Step 56
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
 Score: 62.0
 
-Step 64
+Step 57
 
 Current state: A, D, D, D
 
@@ -640,7 +570,7 @@ Updated state: A, C, D, D
 
 Score: 63.0
 
-Step 65
+Step 58
 
 Current state: A, D, D, D
 
@@ -650,7 +580,7 @@ Updated state: A, C, D, D
 
 Score: 64.0
 
-Step 66
+Step 59
 
 Current state: A, D, D, D
 
@@ -660,27 +590,27 @@ Updated state: A, C, D, D
 
 Score: 65.0
 
-Step 67
+Step 60
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 66.0
 
-Step 68
+Step 61
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 67.0
 
-Step 69
+Step 62
 
 Current state: A, C, D, D
 
@@ -690,7 +620,7 @@ Updated state: A, C, D, D
 
 Score: 68.0
 
-Step 70
+Step 63
 
 Current state: A, D, D, D
 
@@ -700,17 +630,17 @@ Updated state: A, C, D, D
 
 Score: 69.0
 
-Step 71
+Step 64
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 70.0
 
-Step 72
+Step 65
 
 Current state: A, D, D, D
 
@@ -720,7 +650,7 @@ Updated state: A, C, D, D
 
 Score: 71.0
 
-Step 73
+Step 66
 
 Current state: A, D, D, D
 
@@ -730,7 +660,7 @@ Updated state: A, C, D, D
 
 Score: 72.0
 
-Step 74
+Step 67
 
 Current state: A, D, D, D
 
@@ -740,17 +670,17 @@ Updated state: A, C, D, D
 
 Score: 73.0
 
-Step 75
+Step 68
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 74.0
 
-Step 76
+Step 69
 
 Current state: A, C, D, D
 
@@ -760,7 +690,7 @@ Updated state: A, C, D, D
 
 Score: 75.0
 
-Step 77
+Step 70
 
 Current state: A, D, D, D
 
@@ -770,17 +700,17 @@ Updated state: A, C, D, D
 
 Score: 76.0
 
-Step 78
+Step 71
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
 Score: 77.0
 
-Step 79
+Step 72
 
 Current state: A, D, D, D
 
@@ -790,7 +720,7 @@ Updated state: A, C, D, D
 
 Score: 78.0
 
-Step 80
+Step 73
 
 Current state: A, D, D, D
 
@@ -800,7 +730,37 @@ Updated state: A, C, D, D
 
 Score: 79.0
 
-Step 81
+Step 74
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 80.0
+
+Step 75
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 81.0
+
+Step 76
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 82.0
+
+Step 77
 
 Current state: A, C, D, D
 
@@ -808,7 +768,47 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 80.0
+Score: 83.0
+
+Step 78
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 84.0
+
+Step 79
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 85.0
+
+Step 80
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 86.0
+
+Step 81
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 87.0
 
 Step 82
 
@@ -818,7 +818,7 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 81.0
+Score: 88.0
 
 Step 83
 
@@ -828,7 +828,7 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 82.0
+Score: 89.0
 
 Step 84
 
@@ -838,9 +838,19 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 83.0
+Score: 90.0
 
 Step 85
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 91.0
+
+Step 86
 
 Current state: A, D, D, D
 
@@ -848,109 +858,169 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 84.0
-
-Step 86
-
-Current state: A, D, D, D
-
-Action: right
-
-Updated state: B, D, D, D
-
-Score: 84.0
+Score: 92.0
 
 Step 87
 
-Current state: B, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, D
-
-Score: 85.0
-
-Step 88
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 86.0
-
-Step 89
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 87.0
-
-Step 90
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 88.0
-
-Step 91
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 89.0
-
-Step 92
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 90.0
-
-Step 93
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 91.0
-
-Step 94
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 92.0
-
-Step 95
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: A, C, D, D
 
 Score: 93.0
 
+Step 88
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 94.0
+
+Step 89
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 95.0
+
+Step 90
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 96.0
+
+Step 91
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 97.0
+
+Step 92
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 98.0
+
+Step 93
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 99.0
+
+Step 94
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 100.0
+
+Step 95
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 101.0
+
 Step 96
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 102.0
+
+Step 97
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 103.0
+
+Step 98
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 104.0
+
+Step 99
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 105.0
+
+Step 100
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 106.0
+
+Step 101
+
+Current state: B, C, D, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 108.0
+
+Step 102
+
+Current state: B, C, C, D
+
+Action: no-op
+
+Updated state: B, C, C, D
+
+Score: 110.0
+
+Step 103
 
 Current state: B, D, D, D
 
@@ -958,537 +1028,467 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 94.0
-
-Step 97
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 95.0
-
-Step 98
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 96.0
-
-Step 99
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 97.0
-
-Step 100
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 98.0
-
-Step 101
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 99.0
-
-Step 102
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 100.0
-
-Step 103
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 101.0
+Score: 111.0
 
 Step 104
 
 Current state: B, D, C, D
 
-Action: no-op
+Action: left
 
-Updated state: B, D, C, D
-
-Score: 102.0
-
-Step 105
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 103.0
-
-Step 106
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 104.0
-
-Step 107
-
-Current state: B, D, C, D
-
-Action: right
-
-Updated state: C, D, C, D
-
-Score: 105.0
-
-Step 108
-
-Current state: C, D, C, D
-
-Action: suck
-
-Updated state: C, D, C, C
-
-Score: 107.0
-
-Step 109
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 108.0
-
-Step 110
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 109.0
-
-Step 111
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 110.0
-
-Step 112
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 111.0
-
-Step 113
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
+Updated state: A, D, C, D
 
 Score: 112.0
 
-Step 114
+Step 105
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 113.0
 
-Step 115
+Step 106
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 114.0
 
-Step 116
+Step 107
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 115.0
 
-Step 117
+Step 108
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 116.0
 
-Step 118
+Step 109
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 117.0
 
-Step 119
+Step 110
 
-Current state: C, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 118.0
 
-Step 120
+Step 111
 
-Current state: C, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 119.0
 
-Step 121
+Step 112
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 120.0
 
-Step 122
+Step 113
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 121.0
 
-Step 123
+Step 114
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 122.0
 
-Step 124
+Step 115
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 123.0
 
-Step 125
+Step 116
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
-Action: no-op
+Action: right
 
-Updated state: C, D, D, C
+Updated state: B, C, D, D
 
 Score: 124.0
 
-Step 126
+Step 117
 
-Current state: C, D, D, C
+Current state: B, C, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
-
-Score: 125.0
-
-Step 127
-
-Current state: C, D, D, C
-
-Action: left
-
-Updated state: B, D, D, C
+Updated state: B, C, C, D
 
 Score: 126.0
 
-Step 128
+Step 118
 
-Current state: B, D, D, C
-
-Action: left
-
-Updated state: A, D, D, C
-
-Score: 127.0
-
-Step 129
-
-Current state: A, D, D, C
-
-Action: suck
-
-Updated state: A, C, D, C
-
-Score: 129.0
-
-Step 130
-
-Current state: A, C, D, C
+Current state: B, C, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, C, C, D
+
+Score: 128.0
+
+Step 119
+
+Current state: B, C, D, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 130.0
+
+Step 120
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 131.0
 
-Step 131
+Step 121
 
-Current state: A, D, D, C
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
+
+Score: 132.0
+
+Step 122
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 133.0
 
-Step 132
+Step 123
 
-Current state: A, D, D, C
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
+
+Score: 134.0
+
+Step 124
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 135.0
 
-Step 133
+Step 125
 
-Current state: A, C, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
+
+Score: 136.0
+
+Step 126
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
 
 Score: 137.0
 
-Step 134
+Step 127
 
-Current state: A, C, D, C
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 138.0
+
+Step 128
+
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
 
 Score: 139.0
 
-Step 135
+Step 129
 
-Current state: A, D, D, C
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
+
+Score: 140.0
+
+Step 130
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 141.0
 
-Step 136
+Step 131
 
-Current state: A, C, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
+
+Score: 142.0
+
+Step 132
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 143.0
 
-Step 137
+Step 133
 
-Current state: A, C, D, C
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 144.0
+
+Step 134
+
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
 
 Score: 145.0
 
-Step 138
+Step 135
 
-Current state: A, C, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: B, D, C, D
+
+Score: 146.0
+
+Step 136
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
 
 Score: 147.0
 
-Step 139
+Step 137
 
-Current state: A, C, D, C
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, C
+Updated state: A, C, C, D
 
 Score: 149.0
 
-Step 140
+Step 138
 
-Current state: A, D, D, C
+Current state: A, C, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, C
+Updated state: A, C, C, D
 
 Score: 151.0
 
-Step 141
+Step 139
 
-Current state: A, C, D, C
+Current state: A, C, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: A, C, C, D
 
 Score: 153.0
 
-Step 142
+Step 140
 
-Current state: A, C, D, C
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, C
+Updated state: A, C, C, D
 
 Score: 155.0
 
-Step 143
+Step 141
 
-Current state: A, D, D, C
-
-Action: suck
-
-Updated state: A, C, D, C
-
-Score: 157.0
-
-Step 144
-
-Current state: A, D, D, C
-
-Action: suck
-
-Updated state: A, C, D, C
-
-Score: 159.0
-
-Step 145
-
-Current state: A, C, D, C
+Current state: A, C, C, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: A, C, C, D
+
+Score: 157.0
+
+Step 142
+
+Current state: A, C, C, D
+
+Action: no-op
+
+Updated state: A, C, C, D
+
+Score: 159.0
+
+Step 143
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
 
 Score: 161.0
 
-Step 146
+Step 144
 
-Current state: A, D, D, C
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, C
+Updated state: A, C, D, D
+
+Score: 162.0
+
+Step 145
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 163.0
 
+Step 146
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 164.0
+
 Step 147
 
-Current state: A, D, D, C
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, C
+Updated state: A, C, D, D
 
 Score: 165.0
 
 Step 148
 
-Current state: A, D, D, C
-
-Action: suck
-
-Updated state: A, C, D, C
-
-Score: 167.0
-
-Step 149
-
-Current state: A, C, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: A, C, D, C
+Updated state: A, C, D, D
 
-Score: 169.0
+Score: 166.0
+
+Step 149
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 167.0
 
 Step 150
 
@@ -1498,7 +1498,7 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 170.0
+Score: 168.0
 
 Step 151
 
@@ -1508,67 +1508,67 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 171.0
+Score: 169.0
 
 Step 152
 
 Current state: A, D, D, D
 
-Action: suck
+Action: right
 
-Updated state: A, C, D, D
+Updated state: B, D, D, D
 
-Score: 172.0
+Score: 169.0
 
 Step 153
 
-Current state: A, C, D, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
-Score: 173.0
+Score: 170.0
 
 Step 154
 
-Current state: A, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
-Score: 174.0
+Score: 171.0
 
 Step 155
 
-Current state: A, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
-Score: 175.0
+Score: 172.0
 
 Step 156
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
-Action: right
+Action: no-op
 
-Updated state: B, C, D, D
+Updated state: B, D, C, D
 
-Score: 176.0
+Score: 173.0
 
 Step 157
 
-Current state: B, C, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: B, C, C, D
+Updated state: B, D, C, D
 
-Score: 178.0
+Score: 174.0
 
 Step 158
 
@@ -1578,7 +1578,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 179.0
+Score: 175.0
 
 Step 159
 
@@ -1588,17 +1588,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 180.0
+Score: 176.0
 
 Step 160
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
-Score: 181.0
+Score: 177.0
 
 Step 161
 
@@ -1608,7 +1608,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 182.0
+Score: 178.0
 
 Step 162
 
@@ -1618,17 +1618,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 183.0
+Score: 179.0
 
 Step 163
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
-Score: 184.0
+Score: 180.0
 
 Step 164
 
@@ -1638,17 +1638,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 185.0
+Score: 181.0
 
 Step 165
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 186.0
+Score: 182.0
 
 Step 166
 
@@ -1658,17 +1658,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 187.0
+Score: 183.0
 
 Step 167
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
-Score: 188.0
+Score: 184.0
 
 Step 168
 
@@ -1678,17 +1678,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 189.0
+Score: 185.0
 
 Step 169
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
-Score: 190.0
+Score: 186.0
 
 Step 170
 
@@ -1698,7 +1698,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 191.0
+Score: 187.0
 
 Step 171
 
@@ -1708,7 +1708,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 192.0
+Score: 188.0
 
 Step 172
 
@@ -1718,7 +1718,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 193.0
+Score: 189.0
 
 Step 173
 
@@ -1728,19 +1728,9 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 194.0
+Score: 190.0
 
 Step 174
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 195.0
-
-Step 175
 
 Current state: B, D, C, D
 
@@ -1748,7 +1738,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 196.0
+Score: 191.0
+
+Step 175
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 192.0
 
 Step 176
 
@@ -1758,7 +1758,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 197.0
+Score: 193.0
 
 Step 177
 
@@ -1768,7 +1768,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 198.0
+Score: 194.0
 
 Step 178
 
@@ -1778,7 +1778,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 199.0
+Score: 195.0
 
 Step 179
 
@@ -1788,7 +1788,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 200.0
+Score: 196.0
 
 Step 180
 
@@ -1798,7 +1798,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 201.0
+Score: 197.0
 
 Step 181
 
@@ -1808,7 +1808,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 202.0
+Score: 198.0
 
 Step 182
 
@@ -1818,17 +1818,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 203.0
+Score: 199.0
 
 Step 183
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 204.0
+Score: 200.0
 
 Step 184
 
@@ -1838,7 +1838,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 205.0
+Score: 201.0
 
 Step 185
 
@@ -1848,7 +1848,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 206.0
+Score: 202.0
 
 Step 186
 
@@ -1858,7 +1858,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 207.0
+Score: 203.0
 
 Step 187
 
@@ -1868,17 +1868,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 208.0
+Score: 204.0
 
 Step 188
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 209.0
+Score: 205.0
 
 Step 189
 
@@ -1888,7 +1888,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 210.0
+Score: 206.0
 
 Step 190
 
@@ -1898,17 +1898,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 211.0
+Score: 207.0
 
 Step 191
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
-Score: 212.0
+Score: 208.0
 
 Step 192
 
@@ -1918,7 +1918,7 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 213.0
+Score: 209.0
 
 Step 193
 
@@ -1928,7 +1928,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 214.0
+Score: 210.0
 
 Step 194
 
@@ -1938,7 +1938,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 215.0
+Score: 211.0
 
 Step 195
 
@@ -1948,7 +1948,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 216.0
+Score: 212.0
 
 Step 196
 
@@ -1958,7 +1958,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 217.0
+Score: 213.0
 
 Step 197
 
@@ -1968,19 +1968,9 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 218.0
+Score: 214.0
 
 Step 198
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 219.0
-
-Step 199
 
 Current state: B, D, C, D
 
@@ -1988,7 +1978,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 220.0
+Score: 215.0
+
+Step 199
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 216.0
 
 Step 200
 
@@ -1998,7 +1998,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 221.0
+Score: 217.0
 
 Step 201
 
@@ -2008,47 +2008,47 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 222.0
+Score: 218.0
 
 Step 202
 
 Current state: B, D, C, D
 
-Action: left
-
-Updated state: A, D, C, D
-
-Score: 223.0
-
-Step 203
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 225.0
-
-Step 204
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 227.0
-
-Step 205
-
-Current state: A, D, C, D
-
-Action: right
+Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 228.0
+Score: 219.0
+
+Step 203
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 220.0
+
+Step 204
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 221.0
+
+Step 205
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 222.0
 
 Step 206
 
@@ -2058,327 +2058,327 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 229.0
+Score: 223.0
 
 Step 207
 
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 230.0
-
-Step 208
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 231.0
-
-Step 209
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 232.0
-
-Step 210
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 233.0
-
-Step 211
-
 Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 234.0
-
-Step 212
-
-Current state: B, D, D, D
-
-Action: right
-
-Updated state: C, D, D, D
-
-Score: 234.0
-
-Step 213
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 235.0
-
-Step 214
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 236.0
-
-Step 215
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 237.0
-
-Step 216
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 238.0
-
-Step 217
-
-Current state: C, D, D, C
 
 Action: left
 
-Updated state: B, D, D, C
+Updated state: A, D, D, D
 
-Score: 239.0
+Score: 223.0
+
+Step 208
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 224.0
+
+Step 209
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 225.0
+
+Step 210
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 226.0
+
+Step 211
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 227.0
+
+Step 212
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 228.0
+
+Step 213
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 229.0
+
+Step 214
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 230.0
+
+Step 215
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 231.0
+
+Step 216
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 232.0
+
+Step 217
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 233.0
 
 Step 218
 
-Current state: B, D, D, C
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, C
+Updated state: A, C, D, D
 
-Score: 241.0
+Score: 234.0
 
 Step 219
 
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 243.0
-
-Step 220
-
-Current state: B, D, D, C
-
-Action: suck
-
-Updated state: B, D, C, C
-
-Score: 245.0
-
-Step 221
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 247.0
-
-Step 222
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 249.0
-
-Step 223
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 251.0
-
-Step 224
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 253.0
-
-Step 225
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 255.0
-
-Step 226
-
-Current state: B, D, C, C
+Current state: A, D, D, D
 
 Action: right
 
-Updated state: C, D, C, C
+Updated state: B, D, D, D
 
-Score: 257.0
+Score: 234.0
 
-Step 227
+Step 220
 
-Current state: C, D, C, C
-
-Action: no-op
-
-Updated state: C, D, C, C
-
-Score: 259.0
-
-Step 228
-
-Current state: C, D, C, C
-
-Action: no-op
-
-Updated state: C, D, C, C
-
-Score: 261.0
-
-Step 229
-
-Current state: C, D, C, C
-
-Action: no-op
-
-Updated state: C, D, C, C
-
-Score: 263.0
-
-Step 230
-
-Current state: C, D, C, C
-
-Action: no-op
-
-Updated state: C, D, C, C
-
-Score: 265.0
-
-Step 231
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 266.0
-
-Step 232
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 267.0
-
-Step 233
-
-Current state: C, D, D, D
+Current state: B, D, D, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
-Score: 268.0
+Score: 235.0
+
+Step 221
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 236.0
+
+Step 222
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 237.0
+
+Step 223
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 238.0
+
+Step 224
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 239.0
+
+Step 225
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 240.0
+
+Step 226
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 241.0
+
+Step 227
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 242.0
+
+Step 228
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 243.0
+
+Step 229
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 244.0
+
+Step 230
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 246.0
+
+Step 231
+
+Current state: C, D, C, C
+
+Action: no-op
+
+Updated state: C, D, C, C
+
+Score: 248.0
+
+Step 232
+
+Current state: C, D, C, C
+
+Action: no-op
+
+Updated state: C, D, C, C
+
+Score: 250.0
+
+Step 233
+
+Current state: C, D, C, C
+
+Action: no-op
+
+Updated state: C, D, C, C
+
+Score: 252.0
 
 Step 234
 
-Current state: C, D, D, C
+Current state: C, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: C, D, C, C
 
-Score: 269.0
+Score: 254.0
 
 Step 235
 
-Current state: C, D, D, C
+Current state: C, D, C, C
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: C, D, C, C
 
-Score: 270.0
+Score: 256.0
 
 Step 236
 
-Current state: C, D, D, C
+Current state: C, D, C, C
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: C, D, C, C
 
-Score: 271.0
+Score: 258.0
 
 Step 237
 
-Current state: C, D, D, C
+Current state: C, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: C, D, C, C
 
-Score: 272.0
+Score: 260.0
 
 Step 238
 
-Current state: C, D, D, C
+Current state: C, D, C, C
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: C, D, C, C
 
-Score: 273.0
+Score: 262.0
 
 Step 239
 
@@ -2388,7 +2388,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 274.0
+Score: 263.0
 
 Step 240
 
@@ -2398,7 +2398,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 275.0
+Score: 264.0
 
 Step 241
 
@@ -2408,7 +2408,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 276.0
+Score: 265.0
 
 Step 242
 
@@ -2418,777 +2418,777 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 277.0
+Score: 266.0
 
 Step 243
 
-Current state: C, D, D, D
+Current state: C, D, D, C
 
-Action: left
+Action: no-op
 
-Updated state: B, D, D, D
+Updated state: C, D, D, C
 
-Score: 277.0
+Score: 267.0
 
 Step 244
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 278.0
+Score: 268.0
 
 Step 245
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 279.0
+Score: 269.0
 
 Step 246
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 280.0
+Score: 270.0
 
 Step 247
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 281.0
+Score: 271.0
 
 Step 248
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: left
+Action: suck
 
-Updated state: A, D, C, D
+Updated state: C, D, D, C
 
-Score: 282.0
+Score: 272.0
 
 Step 249
 
-Current state: A, D, C, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 284.0
+Score: 273.0
 
 Step 250
 
-Current state: A, C, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 286.0
+Score: 274.0
 
 Step 251
 
-Current state: A, C, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 288.0
+Score: 275.0
 
 Step 252
 
-Current state: A, D, C, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 290.0
+Score: 276.0
 
 Step 253
 
-Current state: A, D, C, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 292.0
+Score: 277.0
 
 Step 254
 
-Current state: A, D, C, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 294.0
+Score: 278.0
 
 Step 255
 
-Current state: A, D, C, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 296.0
+Score: 279.0
 
 Step 256
 
-Current state: A, C, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
 
-Score: 298.0
+Score: 280.0
 
 Step 257
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: left
 
-Updated state: A, C, D, D
+Updated state: B, D, D, C
 
-Score: 299.0
+Score: 281.0
 
 Step 258
 
-Current state: A, C, D, D
+Current state: B, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 300.0
+Score: 283.0
 
 Step 259
 
-Current state: A, D, D, D
+Current state: B, D, C, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 301.0
+Score: 285.0
 
 Step 260
 
-Current state: A, C, D, D
+Current state: B, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 302.0
+Score: 287.0
 
 Step 261
 
-Current state: A, C, D, D
+Current state: B, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 303.0
+Score: 289.0
 
 Step 262
 
-Current state: A, D, D, D
+Current state: B, D, D, C
 
 Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 304.0
+Score: 291.0
 
 Step 263
 
-Current state: A, C, D, D
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 305.0
+Score: 293.0
 
 Step 264
 
-Current state: A, D, D, D
+Current state: B, D, C, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 306.0
+Score: 295.0
 
 Step 265
 
-Current state: A, C, D, D
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 307.0
+Score: 297.0
 
 Step 266
 
-Current state: A, D, D, D
+Current state: B, D, C, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 308.0
+Score: 299.0
 
 Step 267
 
-Current state: A, D, D, D
+Current state: B, D, C, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 309.0
+Score: 301.0
 
 Step 268
 
-Current state: A, C, D, D
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 310.0
+Score: 303.0
 
 Step 269
 
-Current state: A, C, D, D
+Current state: B, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 311.0
+Score: 305.0
 
 Step 270
 
-Current state: A, C, D, D
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 312.0
+Score: 307.0
 
 Step 271
 
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 313.0
-
-Step 272
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 314.0
-
-Step 273
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 315.0
-
-Step 274
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 316.0
-
-Step 275
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 317.0
-
-Step 276
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 318.0
-
-Step 277
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 319.0
-
-Step 278
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 320.0
-
-Step 279
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 321.0
-
-Step 280
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 322.0
-
-Step 281
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 323.0
-
-Step 282
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 324.0
-
-Step 283
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 325.0
-
-Step 284
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 326.0
-
-Step 285
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 327.0
-
-Step 286
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 328.0
-
-Step 287
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 329.0
-
-Step 288
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 330.0
-
-Step 289
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 331.0
-
-Step 290
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 332.0
-
-Step 291
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 333.0
-
-Step 292
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 334.0
-
-Step 293
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 335.0
-
-Step 294
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 336.0
-
-Step 295
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 337.0
-
-Step 296
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 338.0
-
-Step 297
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 339.0
-
-Step 298
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 340.0
-
-Step 299
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 341.0
-
-Step 300
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 342.0
-
-Step 301
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 343.0
-
-Step 302
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 344.0
-
-Step 303
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 345.0
-
-Step 304
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 346.0
-
-Step 305
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 347.0
-
-Step 306
-
-Current state: A, C, D, D
+Current state: B, D, C, C
 
 Action: right
 
-Updated state: B, C, D, D
+Updated state: C, D, C, C
 
-Score: 348.0
+Score: 309.0
+
+Step 272
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 310.0
+
+Step 273
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 311.0
+
+Step 274
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 312.0
+
+Step 275
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 313.0
+
+Step 276
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 314.0
+
+Step 277
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 315.0
+
+Step 278
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 316.0
+
+Step 279
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 317.0
+
+Step 280
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 318.0
+
+Step 281
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 319.0
+
+Step 282
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 320.0
+
+Step 283
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 321.0
+
+Step 284
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 322.0
+
+Step 285
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 323.0
+
+Step 286
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 324.0
+
+Step 287
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 325.0
+
+Step 288
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 326.0
+
+Step 289
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 327.0
+
+Step 290
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 328.0
+
+Step 291
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 329.0
+
+Step 292
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 330.0
+
+Step 293
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 331.0
+
+Step 294
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 332.0
+
+Step 295
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 333.0
+
+Step 296
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 334.0
+
+Step 297
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 335.0
+
+Step 298
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 336.0
+
+Step 299
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 337.0
+
+Step 300
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 338.0
+
+Step 301
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 339.0
+
+Step 302
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 340.0
+
+Step 303
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 341.0
+
+Step 304
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 342.0
+
+Step 305
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 343.0
+
+Step 306
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 344.0
 
 Step 307
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 349.0
+Score: 345.0
 
 Step 308
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 350.0
+Score: 346.0
 
 Step 309
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 351.0
+Score: 347.0
 
 Step 310
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
-Action: no-op
+Action: left
 
-Updated state: B, D, C, D
+Updated state: B, D, D, C
 
-Score: 352.0
+Score: 348.0
 
 Step 311
 
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 353.0
-
-Step 312
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 354.0
-
-Step 313
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 355.0
-
-Step 314
-
-Current state: B, D, D, D
+Current state: B, D, D, C
 
 Action: suck
 
-Updated state: B, D, C, D
+Updated state: B, D, C, C
+
+Score: 350.0
+
+Step 312
+
+Current state: B, D, C, C
+
+Action: no-op
+
+Updated state: B, D, C, C
+
+Score: 352.0
+
+Step 313
+
+Current state: B, D, C, C
+
+Action: no-op
+
+Updated state: B, D, C, C
+
+Score: 354.0
+
+Step 314
+
+Current state: B, D, C, C
+
+Action: no-op
+
+Updated state: B, D, C, C
 
 Score: 356.0
 
 Step 315
 
-Current state: B, D, C, D
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: B, D, C, D
-
-Score: 357.0
-
-Step 316
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: B, D, C, C
 
 Score: 358.0
 
-Step 317
+Step 316
 
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 359.0
-
-Step 318
-
-Current state: B, D, C, D
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: B, D, C, C
 
 Score: 360.0
 
-Step 319
+Step 317
 
-Current state: B, D, C, D
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: B, D, C, C
 
-Score: 361.0
+Score: 362.0
+
+Step 318
+
+Current state: B, D, C, C
+
+Action: no-op
+
+Updated state: B, D, C, C
+
+Score: 364.0
+
+Step 319
+
+Current state: B, D, C, C
+
+Action: no-op
+
+Updated state: B, D, C, C
+
+Score: 366.0
 
 Step 320
 
@@ -3198,7 +3198,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 362.0
+Score: 367.0
 
 Step 321
 
@@ -3208,59 +3208,9 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 363.0
-
-Step 322
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 364.0
-
-Step 323
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 365.0
-
-Step 324
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 366.0
-
-Step 325
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 367.0
-
-Step 326
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
 Score: 368.0
 
-Step 327
+Step 322
 
 Current state: B, D, C, D
 
@@ -3270,7 +3220,7 @@ Updated state: B, D, C, D
 
 Score: 369.0
 
-Step 328
+Step 323
 
 Current state: B, D, C, D
 
@@ -3280,7 +3230,7 @@ Updated state: B, D, C, D
 
 Score: 370.0
 
-Step 329
+Step 324
 
 Current state: B, D, C, D
 
@@ -3290,17 +3240,17 @@ Updated state: B, D, C, D
 
 Score: 371.0
 
-Step 330
+Step 325
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 372.0
 
-Step 331
+Step 326
 
 Current state: B, D, C, D
 
@@ -3310,7 +3260,7 @@ Updated state: B, D, C, D
 
 Score: 373.0
 
-Step 332
+Step 327
 
 Current state: B, D, C, D
 
@@ -3320,17 +3270,17 @@ Updated state: B, D, C, D
 
 Score: 374.0
 
-Step 333
+Step 328
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 375.0
 
-Step 334
+Step 329
 
 Current state: B, D, C, D
 
@@ -3340,7 +3290,7 @@ Updated state: B, D, C, D
 
 Score: 376.0
 
-Step 335
+Step 330
 
 Current state: B, D, C, D
 
@@ -3350,17 +3300,17 @@ Updated state: B, D, C, D
 
 Score: 377.0
 
-Step 336
+Step 331
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 378.0
 
-Step 337
+Step 332
 
 Current state: B, D, C, D
 
@@ -3370,17 +3320,17 @@ Updated state: B, D, C, D
 
 Score: 379.0
 
-Step 338
+Step 333
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 380.0
 
-Step 339
+Step 334
 
 Current state: B, D, C, D
 
@@ -3390,7 +3340,7 @@ Updated state: B, D, C, D
 
 Score: 381.0
 
-Step 340
+Step 335
 
 Current state: B, D, C, D
 
@@ -3400,17 +3350,17 @@ Updated state: B, D, C, D
 
 Score: 382.0
 
-Step 341
+Step 336
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 383.0
 
-Step 342
+Step 337
 
 Current state: B, D, C, D
 
@@ -3420,7 +3370,7 @@ Updated state: B, D, C, D
 
 Score: 384.0
 
-Step 343
+Step 338
 
 Current state: B, D, C, D
 
@@ -3430,17 +3380,17 @@ Updated state: B, D, C, D
 
 Score: 385.0
 
-Step 344
+Step 339
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 386.0
 
-Step 345
+Step 340
 
 Current state: B, D, C, D
 
@@ -3450,7 +3400,7 @@ Updated state: B, D, C, D
 
 Score: 387.0
 
-Step 346
+Step 341
 
 Current state: B, D, C, D
 
@@ -3460,7 +3410,7 @@ Updated state: B, D, C, D
 
 Score: 388.0
 
-Step 347
+Step 342
 
 Current state: B, D, D, D
 
@@ -3470,7 +3420,7 @@ Updated state: B, D, C, D
 
 Score: 389.0
 
-Step 348
+Step 343
 
 Current state: B, D, C, D
 
@@ -3480,7 +3430,7 @@ Updated state: B, D, C, D
 
 Score: 390.0
 
-Step 349
+Step 344
 
 Current state: B, D, C, D
 
@@ -3490,7 +3440,7 @@ Updated state: B, D, C, D
 
 Score: 391.0
 
-Step 350
+Step 345
 
 Current state: B, D, C, D
 
@@ -3500,7 +3450,7 @@ Updated state: B, D, C, D
 
 Score: 392.0
 
-Step 351
+Step 346
 
 Current state: B, D, C, D
 
@@ -3510,211 +3460,261 @@ Updated state: B, D, C, D
 
 Score: 393.0
 
+Step 347
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 394.0
+
+Step 348
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 395.0
+
+Step 349
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 396.0
+
+Step 350
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 397.0
+
+Step 351
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 398.0
+
 Step 352
 
 Current state: B, D, C, D
 
-Action: left
+Action: no-op
 
-Updated state: A, D, C, D
+Updated state: B, D, C, D
 
-Score: 394.0
+Score: 399.0
 
 Step 353
 
-Current state: A, D, C, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
-
-Score: 396.0
-
-Step 354
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 398.0
-
-Step 355
-
-Current state: A, C, C, D
-
-Action: right
-
-Updated state: B, C, C, D
+Updated state: B, D, C, D
 
 Score: 400.0
 
-Step 356
+Step 354
 
-Current state: B, C, C, D
+Current state: B, D, C, D
 
-Action: left
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: B, D, C, D
+
+Score: 401.0
+
+Step 355
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 402.0
 
+Step 356
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 403.0
+
 Step 357
 
-Current state: A, D, C, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: B, D, C, D
 
 Score: 404.0
 
 Step 358
 
-Current state: A, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 405.0
 
 Step 359
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 406.0
 
 Step 360
 
-Current state: A, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 407.0
 
 Step 361
 
-Current state: A, C, D, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 408.0
 
 Step 362
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 409.0
 
 Step 363
 
-Current state: A, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 410.0
 
 Step 364
 
-Current state: A, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 411.0
 
 Step 365
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 412.0
 
 Step 366
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 413.0
 
 Step 367
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 414.0
 
 Step 368
 
-Current state: A, C, D, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 415.0
 
 Step 369
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 416.0
 
 Step 370
 
-Current state: A, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: B, D, C, D
 
 Score: 417.0
 
 Step 371
 
-Current state: A, C, D, D
+Current state: B, D, C, D
 
-Action: right
+Action: no-op
 
-Updated state: B, C, D, D
+Updated state: B, D, C, D
 
 Score: 418.0
 
 Step 372
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
@@ -3744,163 +3744,33 @@ Step 375
 
 Current state: B, D, C, D
 
-Action: left
+Action: no-op
 
-Updated state: A, D, C, D
+Updated state: B, D, C, D
 
 Score: 422.0
 
 Step 376
 
-Current state: A, D, C, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: B, D, C, D
 
-Score: 424.0
+Score: 423.0
 
 Step 377
 
-Current state: A, C, C, D
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: A, C, C, D
+Updated state: B, D, C, D
 
-Score: 426.0
+Score: 424.0
 
 Step 378
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 427.0
-
-Step 379
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 428.0
-
-Step 380
-
-Current state: A, C, D, D
-
-Action: right
-
-Updated state: B, C, D, D
-
-Score: 429.0
-
-Step 381
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 430.0
-
-Step 382
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 431.0
-
-Step 383
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 432.0
-
-Step 384
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 433.0
-
-Step 385
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 434.0
-
-Step 386
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 435.0
-
-Step 387
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 436.0
-
-Step 388
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 437.0
-
-Step 389
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 438.0
-
-Step 390
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 439.0
-
-Step 391
 
 Current state: B, D, C, D
 
@@ -3908,19 +3778,9 @@ Action: left
 
 Updated state: A, D, C, D
 
-Score: 440.0
+Score: 425.0
 
-Step 392
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 442.0
-
-Step 393
+Step 379
 
 Current state: A, D, C, D
 
@@ -3928,77 +3788,217 @@ Action: suck
 
 Updated state: A, C, C, D
 
-Score: 444.0
+Score: 427.0
 
-Step 394
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 446.0
-
-Step 395
+Step 380
 
 Current state: A, C, C, D
 
 Action: no-op
 
 Updated state: A, C, C, D
+
+Score: 429.0
+
+Step 381
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 431.0
+
+Step 382
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 433.0
+
+Step 383
+
+Current state: A, C, C, D
+
+Action: no-op
+
+Updated state: A, C, C, D
+
+Score: 435.0
+
+Step 384
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 437.0
+
+Step 385
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 438.0
+
+Step 386
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 439.0
+
+Step 387
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 440.0
+
+Step 388
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 441.0
+
+Step 389
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 442.0
+
+Step 390
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 443.0
+
+Step 391
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 444.0
+
+Step 392
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 445.0
+
+Step 393
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 446.0
+
+Step 394
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 447.0
+
+Step 395
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 448.0
 
 Step 396
 
-Current state: A, C, C, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
 
-Score: 450.0
+Score: 449.0
 
 Step 397
 
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 452.0
-
-Step 398
-
-Current state: A, C, C, D
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
 
-Score: 454.0
+Score: 450.0
+
+Step 398
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 451.0
 
 Step 399
 
-Current state: A, D, C, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
 
-Score: 456.0
+Score: 452.0
 
 Step 400
 
-Current state: A, D, C, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
 
-Score: 458.0
+Score: 453.0
 
 Step 401
 
@@ -4008,19 +4008,9 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 459.0
+Score: 454.0
 
 Step 402
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 460.0
-
-Step 403
 
 Current state: A, D, D, D
 
@@ -4028,7 +4018,17 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 461.0
+Score: 455.0
+
+Step 403
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 456.0
 
 Step 404
 
@@ -4038,17 +4038,17 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 462.0
+Score: 457.0
 
 Step 405
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
-Score: 463.0
+Score: 458.0
 
 Step 406
 
@@ -4058,27 +4058,27 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 464.0
+Score: 459.0
 
 Step 407
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 465.0
+Score: 460.0
 
 Step 408
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 466.0
+Score: 461.0
 
 Step 409
 
@@ -4088,7 +4088,7 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 467.0
+Score: 462.0
 
 Step 410
 
@@ -4098,7 +4098,7 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 468.0
+Score: 463.0
 
 Step 411
 
@@ -4108,17 +4108,17 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 469.0
+Score: 464.0
 
 Step 412
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 470.0
+Score: 465.0
 
 Step 413
 
@@ -4128,7 +4128,7 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 471.0
+Score: 466.0
 
 Step 414
 
@@ -4138,7 +4138,7 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 472.0
+Score: 467.0
 
 Step 415
 
@@ -4148,17 +4148,17 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 473.0
+Score: 468.0
 
 Step 416
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
-Score: 474.0
+Score: 469.0
 
 Step 417
 
@@ -4168,17 +4168,17 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 475.0
+Score: 470.0
 
 Step 418
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 476.0
+Score: 471.0
 
 Step 419
 
@@ -4188,7 +4188,7 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 477.0
+Score: 472.0
 
 Step 420
 
@@ -4198,7 +4198,7 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 478.0
+Score: 473.0
 
 Step 421
 
@@ -4208,27 +4208,27 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 479.0
+Score: 474.0
 
 Step 422
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
-Score: 480.0
+Score: 475.0
 
 Step 423
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
-Score: 481.0
+Score: 476.0
 
 Step 424
 
@@ -4238,19 +4238,9 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 482.0
+Score: 477.0
 
 Step 425
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 483.0
-
-Step 426
 
 Current state: A, C, D, D
 
@@ -4258,9 +4248,9 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 484.0
+Score: 478.0
 
-Step 427
+Step 426
 
 Current state: A, D, D, D
 
@@ -4268,7 +4258,17 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 485.0
+Score: 479.0
+
+Step 427
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 480.0
 
 Step 428
 
@@ -4278,99 +4278,9 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 486.0
+Score: 481.0
 
 Step 429
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 487.0
-
-Step 430
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 488.0
-
-Step 431
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 489.0
-
-Step 432
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 490.0
-
-Step 433
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 491.0
-
-Step 434
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 492.0
-
-Step 435
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 493.0
-
-Step 436
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 494.0
-
-Step 437
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 495.0
-
-Step 438
 
 Current state: A, D, D, D
 
@@ -4378,47 +4288,137 @@ Action: right
 
 Updated state: B, D, D, D
 
-Score: 495.0
+Score: 481.0
+
+Step 430
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 482.0
+
+Step 431
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 483.0
+
+Step 432
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 484.0
+
+Step 433
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 485.0
+
+Step 434
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 486.0
+
+Step 435
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 487.0
+
+Step 436
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 488.0
+
+Step 437
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 489.0
+
+Step 438
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 490.0
 
 Step 439
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 496.0
+Score: 491.0
 
 Step 440
 
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 492.0
+
+Step 441
+
 Current state: B, D, D, D
 
 Action: suck
 
 Updated state: B, D, C, D
 
-Score: 497.0
-
-Step 441
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 498.0
+Score: 493.0
 
 Step 442
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
-Score: 499.0
+Score: 494.0
 
 Step 443
 
@@ -4428,7 +4428,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 500.0
+Score: 495.0
 
 Step 444
 
@@ -4438,7 +4438,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 501.0
+Score: 496.0
 
 Step 445
 
@@ -4448,7 +4448,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 502.0
+Score: 497.0
 
 Step 446
 
@@ -4458,407 +4458,407 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 503.0
+Score: 498.0
 
 Step 447
 
 Current state: B, D, C, D
 
-Action: no-op
+Action: right
 
-Updated state: B, D, C, D
+Updated state: C, D, C, D
 
-Score: 504.0
+Score: 499.0
 
 Step 448
 
-Current state: B, D, D, D
+Current state: C, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 505.0
+Score: 500.0
 
 Step 449
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 506.0
+Score: 501.0
 
 Step 450
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 507.0
+Score: 502.0
 
 Step 451
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 508.0
+Score: 503.0
 
 Step 452
 
-Current state: B, D, D, D
+Current state: C, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 509.0
+Score: 504.0
 
 Step 453
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 510.0
+Score: 505.0
 
 Step 454
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 511.0
+Score: 506.0
 
 Step 455
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 512.0
+Score: 507.0
 
 Step 456
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 513.0
+Score: 508.0
 
 Step 457
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 514.0
+Score: 509.0
 
 Step 458
 
-Current state: B, D, D, D
+Current state: C, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 515.0
+Score: 510.0
 
 Step 459
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 516.0
+Score: 511.0
 
 Step 460
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 517.0
+Score: 512.0
 
 Step 461
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 518.0
+Score: 513.0
 
 Step 462
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 519.0
+Score: 514.0
 
 Step 463
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 520.0
+Score: 515.0
 
 Step 464
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 521.0
+Score: 516.0
 
 Step 465
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 522.0
+Score: 517.0
 
 Step 466
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
-Score: 523.0
+Score: 518.0
 
 Step 467
 
-Current state: B, D, D, D
+Current state: C, D, D, D
 
-Action: left
+Action: suck
 
-Updated state: A, D, D, D
+Updated state: C, D, D, C
 
-Score: 523.0
+Score: 519.0
 
 Step 468
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 524.0
+Score: 520.0
 
 Step 469
 
-Current state: A, C, D, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 525.0
+Score: 521.0
 
 Step 470
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 526.0
+Score: 522.0
 
 Step 471
 
-Current state: A, C, D, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 527.0
+Score: 523.0
 
 Step 472
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 528.0
+Score: 524.0
 
 Step 473
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 529.0
+Score: 525.0
 
 Step 474
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 530.0
+Score: 526.0
 
 Step 475
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 531.0
+Score: 527.0
 
 Step 476
 
-Current state: A, C, D, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 532.0
+Score: 528.0
 
 Step 477
 
-Current state: A, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, D, D
+Updated state: C, D, D, C
 
-Score: 533.0
+Score: 529.0
 
 Step 478
 
-Current state: A, C, D, D
+Current state: C, D, D, C
 
-Action: no-op
+Action: left
 
-Updated state: A, C, D, D
+Updated state: B, D, D, C
 
-Score: 534.0
+Score: 530.0
 
 Step 479
 
-Current state: A, D, D, D
+Current state: B, D, D, C
 
 Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 535.0
+Score: 532.0
 
 Step 480
 
-Current state: A, C, D, D
+Current state: B, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: B, D, C, C
 
-Score: 536.0
+Score: 534.0
 
 Step 481
 
-Current state: A, D, D, D
+Current state: B, D, C, C
 
-Action: suck
+Action: left
 
-Updated state: A, C, D, D
+Updated state: A, D, C, C
 
-Score: 537.0
+Score: 536.0
 
 Step 482
 
-Current state: A, D, D, D
+Current state: A, D, D, C
 
 Action: suck
 
-Updated state: A, C, D, D
+Updated state: A, C, D, C
 
 Score: 538.0
 
 Step 483
 
-Current state: A, D, D, D
+Current state: A, D, D, C
 
 Action: suck
 
-Updated state: A, C, D, D
-
-Score: 539.0
-
-Step 484
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
+Updated state: A, C, D, C
 
 Score: 540.0
 
+Step 484
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
+
+Score: 542.0
+
 Step 485
 
-Current state: A, C, D, D
+Current state: A, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, D, D
+Updated state: A, C, D, C
 
-Score: 541.0
+Score: 544.0
 
 Step 486
 
-Current state: A, C, D, D
+Current state: A, C, D, C
 
 Action: no-op
 
-Updated state: A, C, D, D
+Updated state: A, C, D, C
 
-Score: 542.0
+Score: 546.0
 
 Step 487
 
@@ -4868,9 +4868,29 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 543.0
+Score: 547.0
 
 Step 488
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 548.0
+
+Step 489
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 549.0
+
+Step 490
 
 Current state: A, D, D, D
 
@@ -4878,129 +4898,99 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 544.0
-
-Step 489
-
-Current state: A, D, D, D
-
-Action: right
-
-Updated state: B, D, D, D
-
-Score: 544.0
-
-Step 490
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 545.0
+Score: 550.0
 
 Step 491
 
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 546.0
-
-Step 492
-
-Current state: B, D, C, D
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: B, D, C, D
-
-Score: 547.0
-
-Step 493
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 548.0
-
-Step 494
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 549.0
-
-Step 495
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 550.0
-
-Step 496
-
-Current state: B, D, C, D
-
-Action: left
-
-Updated state: A, D, C, D
+Updated state: A, C, D, D
 
 Score: 551.0
 
-Step 497
+Step 492
 
-Current state: A, D, C, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
+
+Score: 552.0
+
+Step 493
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 553.0
 
-Step 498
+Step 494
 
-Current state: A, C, C, D
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
 
-Score: 555.0
+Score: 554.0
 
-Step 499
+Step 495
 
-Current state: A, D, C, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
+
+Score: 555.0
+
+Step 496
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 556.0
+
+Step 497
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
 
 Score: 557.0
 
-Step 500
+Step 498
 
-Current state: A, C, C, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: A, C, C, D
+Updated state: A, C, D, D
+
+Score: 558.0
+
+Step 499
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
 
 Score: 559.0
 
-Step 501
+Step 500
 
 Current state: A, D, D, D
 
@@ -5010,7 +5000,7 @@ Updated state: A, C, D, D
 
 Score: 560.0
 
-Step 502
+Step 501
 
 Current state: A, C, D, D
 
@@ -5020,27 +5010,27 @@ Updated state: A, C, D, D
 
 Score: 561.0
 
-Step 503
+Step 502
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
 Score: 562.0
 
-Step 504
+Step 503
 
-Current state: A, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
 Updated state: A, C, D, D
 
 Score: 563.0
 
-Step 505
+Step 504
 
 Current state: A, C, D, D
 
@@ -5050,6 +5040,16 @@ Updated state: A, C, D, D
 
 Score: 564.0
 
+Step 505
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 565.0
+
 Step 506
 
 Current state: A, C, D, D
@@ -5058,7 +5058,7 @@ Action: no-op
 
 Updated state: A, C, D, D
 
-Score: 565.0
+Score: 566.0
 
 Step 507
 
@@ -5068,39 +5068,29 @@ Action: suck
 
 Updated state: A, C, D, D
 
-Score: 566.0
+Score: 567.0
 
 Step 508
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 567.0
-
-Step 509
-
-Current state: A, C, D, D
-
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 568.0
 
-Step 510
+Step 509
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 569.0
 
-Step 511
+Step 510
 
 Current state: A, D, D, D
 
@@ -5110,197 +5100,27 @@ Updated state: A, C, D, D
 
 Score: 570.0
 
-Step 512
+Step 511
 
-Current state: A, C, D, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: A, C, D, D
 
 Score: 571.0
 
-Step 513
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 572.0
-
-Step 514
+Step 512
 
 Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 573.0
-
-Step 515
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 574.0
-
-Step 516
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 575.0
-
-Step 517
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 576.0
-
-Step 518
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 577.0
-
-Step 519
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 578.0
-
-Step 520
-
-Current state: A, C, D, D
 
 Action: right
 
-Updated state: B, C, D, D
+Updated state: B, D, D, D
 
-Score: 579.0
+Score: 571.0
 
-Step 521
-
-Current state: B, C, D, D
-
-Action: suck
-
-Updated state: B, C, C, D
-
-Score: 581.0
-
-Step 522
-
-Current state: B, C, C, D
-
-Action: no-op
-
-Updated state: B, C, C, D
-
-Score: 583.0
-
-Step 523
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 584.0
-
-Step 524
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 585.0
-
-Step 525
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 586.0
-
-Step 526
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 587.0
-
-Step 527
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 588.0
-
-Step 528
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 589.0
-
-Step 529
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 590.0
-
-Step 530
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 591.0
-
-Step 531
+Step 513
 
 Current state: B, D, D, D
 
@@ -5308,13 +5128,193 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 592.0
+Score: 572.0
 
-Step 532
+Step 514
 
 Current state: B, D, C, D
 
 Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 573.0
+
+Step 515
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 574.0
+
+Step 516
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 575.0
+
+Step 517
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 576.0
+
+Step 518
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 577.0
+
+Step 519
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 578.0
+
+Step 520
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 579.0
+
+Step 521
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 580.0
+
+Step 522
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 581.0
+
+Step 523
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 582.0
+
+Step 524
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 584.0
+
+Step 525
+
+Current state: A, C, C, D
+
+Action: no-op
+
+Updated state: A, C, C, D
+
+Score: 586.0
+
+Step 526
+
+Current state: A, C, C, D
+
+Action: no-op
+
+Updated state: A, C, C, D
+
+Score: 588.0
+
+Step 527
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 589.0
+
+Step 528
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 590.0
+
+Step 529
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 591.0
+
+Step 530
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 592.0
+
+Step 531
+
+Current state: A, D, D, D
+
+Action: right
+
+Updated state: B, D, D, D
+
+Score: 592.0
+
+Step 532
+
+Current state: B, D, D, D
+
+Action: suck
 
 Updated state: B, D, C, D
 
@@ -5322,9 +5322,9 @@ Score: 593.0
 
 Step 533
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
@@ -5364,593 +5364,483 @@ Step 537
 
 Current state: B, D, C, D
 
-Action: no-op
+Action: left
 
-Updated state: B, D, C, D
+Updated state: A, D, C, D
 
 Score: 598.0
 
 Step 538
 
-Current state: B, D, C, D
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
-
-Score: 599.0
-
-Step 539
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 600.0
 
-Step 540
+Step 539
 
-Current state: B, D, D, D
+Current state: A, D, C, D
 
 Action: suck
 
-Updated state: B, D, C, D
-
-Score: 601.0
-
-Step 541
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 602.0
 
-Step 542
+Step 540
 
-Current state: B, D, D, D
+Current state: A, D, C, D
 
 Action: suck
 
-Updated state: B, D, C, D
-
-Score: 603.0
-
-Step 543
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: A, C, C, D
 
 Score: 604.0
 
-Step 544
+Step 541
 
-Current state: B, D, C, D
-
-Action: right
-
-Updated state: C, D, C, D
-
-Score: 605.0
-
-Step 545
-
-Current state: C, D, D, D
+Current state: A, D, C, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, C, D
 
 Score: 606.0
 
-Step 546
+Step 542
 
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 607.0
-
-Step 547
-
-Current state: C, D, D, C
+Current state: A, C, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, C, D
 
 Score: 608.0
 
-Step 548
+Step 543
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 609.0
 
-Step 549
+Step 544
 
-Current state: C, D, D, D
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 610.0
 
-Step 550
+Step 545
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 611.0
 
-Step 551
+Step 546
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 612.0
 
-Step 552
+Step 547
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 613.0
 
-Step 553
+Step 548
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
-Action: no-op
+Action: right
 
-Updated state: C, D, D, C
+Updated state: B, C, D, D
 
 Score: 614.0
 
-Step 554
+Step 549
 
-Current state: C, D, D, C
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 615.0
 
-Step 555
+Step 550
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 616.0
 
-Step 556
+Step 551
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 617.0
 
-Step 557
+Step 552
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 618.0
 
-Step 558
+Step 553
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 619.0
 
-Step 559
+Step 554
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 620.0
 
-Step 560
+Step 555
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 621.0
 
-Step 561
+Step 556
 
-Current state: C, D, D, C
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 622.0
 
-Step 562
+Step 557
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 623.0
 
-Step 563
+Step 558
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: B, D, C, D
 
 Score: 624.0
 
-Step 564
+Step 559
 
-Current state: C, D, D, C
+Current state: B, D, C, D
 
-Action: no-op
+Action: left
 
-Updated state: C, D, D, C
+Updated state: A, D, C, D
 
 Score: 625.0
 
-Step 565
+Step 560
 
-Current state: C, D, D, C
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
-
-Score: 626.0
-
-Step 566
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
+Updated state: A, C, C, D
 
 Score: 627.0
 
-Step 567
+Step 561
 
-Current state: C, D, D, C
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
-
-Score: 628.0
-
-Step 568
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
+Updated state: A, C, C, D
 
 Score: 629.0
 
-Step 569
+Step 562
 
-Current state: C, D, D, C
+Current state: A, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
-
-Score: 630.0
-
-Step 570
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
+Updated state: A, C, C, D
 
 Score: 631.0
 
-Step 571
+Step 563
 
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 632.0
-
-Step 572
-
-Current state: C, D, D, C
+Current state: A, C, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, C, D
 
 Score: 633.0
 
-Step 573
+Step 564
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 634.0
 
-Step 574
+Step 565
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 635.0
 
-Step 575
+Step 566
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 636.0
 
-Step 576
+Step 567
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 637.0
 
-Step 577
+Step 568
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 638.0
 
-Step 578
+Step 569
 
-Current state: C, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 639.0
 
-Step 579
+Step 570
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 640.0
 
-Step 580
+Step 571
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 641.0
 
-Step 581
+Step 572
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 642.0
 
-Step 582
+Step 573
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 643.0
 
-Step 583
+Step 574
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 644.0
 
-Step 584
+Step 575
 
-Current state: C, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 645.0
 
-Step 585
+Step 576
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 646.0
 
-Step 586
+Step 577
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 647.0
 
-Step 587
+Step 578
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 648.0
 
-Step 588
+Step 579
 
-Current state: C, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 649.0
 
-Step 589
+Step 580
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 650.0
 
-Step 590
+Step 581
 
-Current state: C, D, D, D
+Current state: A, C, D, D
 
-Action: left
+Action: no-op
 
-Updated state: B, D, D, D
-
-Score: 650.0
-
-Step 591
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
+Updated state: A, C, D, D
 
 Score: 651.0
 
-Step 592
+Step 582
 
-Current state: B, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, D
+Updated state: A, C, D, D
 
 Score: 652.0
 
-Step 593
+Step 583
 
-Current state: B, D, C, D
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: A, C, D, D
 
 Score: 653.0
 
-Step 594
+Step 584
 
-Current state: B, D, C, D
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
-
-Score: 654.0
-
-Step 595
-
-Current state: B, D, D, D
-
-Action: left
-
-Updated state: A, D, D, D
+Updated state: A, C, D, D
 
 Score: 654.0
 
-Step 596
+Step 585
 
 Current state: A, D, D, D
 
@@ -5960,7 +5850,187 @@ Updated state: A, C, D, D
 
 Score: 655.0
 
+Step 586
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 656.0
+
+Step 587
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 657.0
+
+Step 588
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 658.0
+
+Step 589
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 659.0
+
+Step 590
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 660.0
+
+Step 591
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 661.0
+
+Step 592
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 662.0
+
+Step 593
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 663.0
+
+Step 594
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 664.0
+
+Step 595
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 665.0
+
+Step 596
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 666.0
+
 Step 597
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 667.0
+
+Step 598
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 668.0
+
+Step 599
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 669.0
+
+Step 600
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 670.0
+
+Step 601
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 671.0
+
+Step 602
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 672.0
+
+Step 603
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 673.0
+
+Step 604
 
 Current state: A, C, D, D
 
@@ -5968,87 +6038,17 @@ Action: right
 
 Updated state: B, C, D, D
 
-Score: 656.0
-
-Step 598
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 657.0
-
-Step 599
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 658.0
-
-Step 600
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 659.0
-
-Step 601
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 660.0
-
-Step 602
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 661.0
-
-Step 603
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 662.0
-
-Step 604
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 663.0
+Score: 674.0
 
 Step 605
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
-Score: 664.0
+Score: 675.0
 
 Step 606
 
@@ -6058,7 +6058,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 665.0
+Score: 676.0
 
 Step 607
 
@@ -6068,7 +6068,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 666.0
+Score: 677.0
 
 Step 608
 
@@ -6078,99 +6078,9 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 667.0
+Score: 678.0
 
 Step 609
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 668.0
-
-Step 610
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 669.0
-
-Step 611
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 670.0
-
-Step 612
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 671.0
-
-Step 613
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 672.0
-
-Step 614
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 673.0
-
-Step 615
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 674.0
-
-Step 616
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 675.0
-
-Step 617
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 676.0
-
-Step 618
 
 Current state: B, D, D, D
 
@@ -6178,49 +6088,29 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 677.0
-
-Step 619
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 678.0
-
-Step 620
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
 Score: 679.0
 
-Step 621
+Step 610
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 680.0
 
-Step 622
+Step 611
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 681.0
 
-Step 623
+Step 612
 
 Current state: B, D, D, D
 
@@ -6230,17 +6120,17 @@ Updated state: B, D, C, D
 
 Score: 682.0
 
-Step 624
+Step 613
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 683.0
 
-Step 625
+Step 614
 
 Current state: B, D, C, D
 
@@ -6250,17 +6140,17 @@ Updated state: B, D, C, D
 
 Score: 684.0
 
-Step 626
+Step 615
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 685.0
 
-Step 627
+Step 616
 
 Current state: B, D, C, D
 
@@ -6270,7 +6160,7 @@ Updated state: B, D, C, D
 
 Score: 686.0
 
-Step 628
+Step 617
 
 Current state: B, D, C, D
 
@@ -6280,17 +6170,17 @@ Updated state: B, D, C, D
 
 Score: 687.0
 
-Step 629
+Step 618
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 688.0
 
-Step 630
+Step 619
 
 Current state: B, D, C, D
 
@@ -6300,17 +6190,17 @@ Updated state: B, D, C, D
 
 Score: 689.0
 
-Step 631
+Step 620
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 690.0
 
-Step 632
+Step 621
 
 Current state: B, D, C, D
 
@@ -6320,7 +6210,17 @@ Updated state: B, D, C, D
 
 Score: 691.0
 
-Step 633
+Step 622
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 692.0
+
+Step 623
 
 Current state: B, D, D, D
 
@@ -6328,29 +6228,19 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 692.0
-
-Step 634
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
 Score: 693.0
 
-Step 635
+Step 624
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 694.0
 
-Step 636
+Step 625
 
 Current state: B, D, C, D
 
@@ -6360,17 +6250,17 @@ Updated state: B, D, C, D
 
 Score: 695.0
 
-Step 637
+Step 626
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 696.0
 
-Step 638
+Step 627
 
 Current state: B, D, C, D
 
@@ -6380,17 +6270,17 @@ Updated state: B, D, C, D
 
 Score: 697.0
 
-Step 639
+Step 628
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 698.0
 
-Step 640
+Step 629
 
 Current state: B, D, C, D
 
@@ -6400,7 +6290,7 @@ Updated state: B, D, C, D
 
 Score: 699.0
 
-Step 641
+Step 630
 
 Current state: B, D, C, D
 
@@ -6410,67 +6300,57 @@ Updated state: B, D, C, D
 
 Score: 700.0
 
-Step 642
+Step 631
 
 Current state: B, D, C, D
 
-Action: no-op
+Action: right
 
-Updated state: B, D, C, D
+Updated state: C, D, C, D
 
 Score: 701.0
 
-Step 643
+Step 632
 
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 702.0
-
-Step 644
-
-Current state: B, D, D, D
+Current state: C, D, C, D
 
 Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, C, C
 
 Score: 703.0
 
-Step 645
+Step 633
 
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 704.0
-
-Step 646
-
-Current state: B, D, C, D
+Current state: C, D, C, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, C, C
 
 Score: 705.0
 
-Step 647
+Step 634
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: left
+
+Updated state: B, D, D, D
+
+Score: 705.0
+
+Step 635
+
+Current state: B, D, D, D
+
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 706.0
 
-Step 648
+Step 636
 
 Current state: B, D, C, D
 
@@ -6480,7 +6360,7 @@ Updated state: B, D, C, D
 
 Score: 707.0
 
-Step 649
+Step 637
 
 Current state: B, D, C, D
 
@@ -6490,17 +6370,7 @@ Updated state: B, D, C, D
 
 Score: 708.0
 
-Step 650
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 709.0
-
-Step 651
+Step 638
 
 Current state: B, D, D, D
 
@@ -6508,9 +6378,19 @@ Action: suck
 
 Updated state: B, D, C, D
 
+Score: 709.0
+
+Step 639
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
 Score: 710.0
 
-Step 652
+Step 640
 
 Current state: B, D, C, D
 
@@ -6520,7 +6400,7 @@ Updated state: B, D, C, D
 
 Score: 711.0
 
-Step 653
+Step 641
 
 Current state: B, D, C, D
 
@@ -6530,145 +6410,265 @@ Updated state: B, D, C, D
 
 Score: 712.0
 
-Step 654
+Step 642
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: left
+Action: suck
 
-Updated state: A, D, C, D
+Updated state: B, D, C, D
 
 Score: 713.0
 
-Step 655
+Step 643
 
-Current state: A, D, C, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: B, D, C, D
+
+Score: 714.0
+
+Step 644
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 715.0
 
-Step 656
+Step 645
 
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 717.0
-
-Step 657
-
-Current state: A, D, C, D
+Current state: B, D, D, D
 
 Action: suck
-
-Updated state: A, C, C, D
-
-Score: 719.0
-
-Step 658
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 721.0
-
-Step 659
-
-Current state: A, C, C, D
-
-Action: no-op
-
-Updated state: A, C, C, D
-
-Score: 723.0
-
-Step 660
-
-Current state: A, C, C, D
-
-Action: no-op
-
-Updated state: A, C, C, D
-
-Score: 725.0
-
-Step 661
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 727.0
-
-Step 662
-
-Current state: A, D, C, D
-
-Action: right
 
 Updated state: B, D, C, D
 
-Score: 728.0
+Score: 716.0
 
-Step 663
+Step 646
 
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 729.0
-
-Step 664
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 730.0
-
-Step 665
-
-Current state: B, D, C, D
+Current state: B, D, D, D
 
 Action: left
 
-Updated state: A, D, C, D
+Updated state: A, D, D, D
 
-Score: 731.0
+Score: 716.0
 
-Step 666
+Step 647
 
-Current state: A, D, C, D
+Current state: A, D, D, D
 
-Action: right
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: A, C, D, D
 
-Score: 732.0
+Score: 717.0
 
-Step 667
+Step 648
 
-Current state: B, D, C, D
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 718.0
+
+Step 649
+
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: A, C, D, D
+
+Score: 719.0
+
+Step 650
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 720.0
+
+Step 651
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 721.0
+
+Step 652
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 722.0
+
+Step 653
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 723.0
+
+Step 654
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 724.0
+
+Step 655
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 725.0
+
+Step 656
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 726.0
+
+Step 657
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 727.0
+
+Step 658
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 728.0
+
+Step 659
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 729.0
+
+Step 660
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 730.0
+
+Step 661
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 731.0
+
+Step 662
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 732.0
+
+Step 663
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 733.0
+
+Step 664
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 734.0
+
+Step 665
+
+Current state: B, C, D, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 736.0
+
+Step 666
+
+Current state: B, C, C, D
+
+Action: no-op
+
+Updated state: B, C, C, D
+
+Score: 738.0
+
+Step 667
+
+Current state: B, C, C, D
+
+Action: no-op
+
+Updated state: B, C, C, D
+
+Score: 740.0
 
 Step 668
 
@@ -6678,79 +6678,9 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 734.0
-
-Step 669
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 735.0
-
-Step 670
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 736.0
-
-Step 671
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 737.0
-
-Step 672
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 738.0
-
-Step 673
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 739.0
-
-Step 674
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 740.0
-
-Step 675
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
 Score: 741.0
 
-Step 676
+Step 669
 
 Current state: B, D, C, D
 
@@ -6760,7 +6690,7 @@ Updated state: B, D, C, D
 
 Score: 742.0
 
-Step 677
+Step 670
 
 Current state: B, D, C, D
 
@@ -6770,7 +6700,7 @@ Updated state: B, D, C, D
 
 Score: 743.0
 
-Step 678
+Step 671
 
 Current state: B, D, C, D
 
@@ -6780,7 +6710,7 @@ Updated state: B, D, C, D
 
 Score: 744.0
 
-Step 679
+Step 672
 
 Current state: B, D, C, D
 
@@ -6790,17 +6720,17 @@ Updated state: B, D, C, D
 
 Score: 745.0
 
-Step 680
+Step 673
 
-Current state: B, D, C, D
+Current state: B, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: B, D, C, D
 
 Score: 746.0
 
-Step 681
+Step 674
 
 Current state: B, D, C, D
 
@@ -6810,507 +6740,777 @@ Updated state: B, D, C, D
 
 Score: 747.0
 
-Step 682
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 748.0
-
-Step 683
+Step 675
 
 Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 749.0
-
-Step 684
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 750.0
-
-Step 685
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 751.0
-
-Step 686
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 752.0
-
-Step 687
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 753.0
-
-Step 688
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 754.0
-
-Step 689
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 755.0
-
-Step 690
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 756.0
-
-Step 691
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 757.0
-
-Step 692
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 758.0
-
-Step 693
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 759.0
-
-Step 694
-
-Current state: B, D, D, D
-
-Action: right
-
-Updated state: C, D, D, D
-
-Score: 759.0
-
-Step 695
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 760.0
-
-Step 696
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 761.0
-
-Step 697
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 762.0
-
-Step 698
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 763.0
-
-Step 699
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 764.0
-
-Step 700
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 765.0
-
-Step 701
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 766.0
-
-Step 702
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 767.0
-
-Step 703
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 768.0
-
-Step 704
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 769.0
-
-Step 705
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 770.0
-
-Step 706
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 771.0
-
-Step 707
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 772.0
-
-Step 708
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 773.0
-
-Step 709
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 774.0
-
-Step 710
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 775.0
-
-Step 711
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 776.0
-
-Step 712
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 777.0
-
-Step 713
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 778.0
-
-Step 714
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 779.0
-
-Step 715
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 780.0
-
-Step 716
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 781.0
-
-Step 717
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 782.0
-
-Step 718
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 783.0
-
-Step 719
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 784.0
-
-Step 720
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 785.0
-
-Step 721
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 786.0
-
-Step 722
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 787.0
-
-Step 723
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 788.0
-
-Step 724
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 789.0
-
-Step 725
-
-Current state: C, D, D, C
 
 Action: left
 
-Updated state: B, D, D, C
+Updated state: A, D, C, D
+
+Score: 748.0
+
+Step 676
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 749.0
+
+Step 677
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 750.0
+
+Step 678
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 751.0
+
+Step 679
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 752.0
+
+Step 680
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 753.0
+
+Step 681
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 754.0
+
+Step 682
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 755.0
+
+Step 683
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 756.0
+
+Step 684
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 757.0
+
+Step 685
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 758.0
+
+Step 686
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 759.0
+
+Step 687
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 760.0
+
+Step 688
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 761.0
+
+Step 689
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 762.0
+
+Step 690
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 763.0
+
+Step 691
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 764.0
+
+Step 692
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 765.0
+
+Step 693
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 766.0
+
+Step 694
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 767.0
+
+Step 695
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 768.0
+
+Step 696
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 769.0
+
+Step 697
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 770.0
+
+Step 698
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 771.0
+
+Step 699
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 772.0
+
+Step 700
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 773.0
+
+Step 701
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 774.0
+
+Step 702
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 775.0
+
+Step 703
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 776.0
+
+Step 704
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 777.0
+
+Step 705
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 778.0
+
+Step 706
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 779.0
+
+Step 707
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 780.0
+
+Step 708
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 781.0
+
+Step 709
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 782.0
+
+Step 710
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 783.0
+
+Step 711
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 784.0
+
+Step 712
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 785.0
+
+Step 713
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 786.0
+
+Step 714
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 787.0
+
+Step 715
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 788.0
+
+Step 716
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 789.0
+
+Step 717
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 790.0
 
-Step 726
+Step 718
 
-Current state: B, D, D, C
+Current state: A, C, D, D
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, C
+Updated state: A, C, D, D
+
+Score: 791.0
+
+Step 719
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 792.0
 
-Step 727
+Step 720
 
-Current state: B, D, D, C
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, C
+Updated state: A, C, D, D
+
+Score: 793.0
+
+Step 721
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 794.0
 
-Step 728
+Step 722
 
-Current state: B, D, C, C
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 795.0
+
+Step 723
+
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: B, D, C, C
+Updated state: A, C, D, D
 
 Score: 796.0
 
-Step 729
+Step 724
 
-Current state: B, D, C, C
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 797.0
+
+Step 725
+
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: B, D, C, C
+Updated state: A, C, D, D
 
 Score: 798.0
 
-Step 730
+Step 726
 
-Current state: B, D, C, C
+Current state: A, C, D, D
 
 Action: right
 
-Updated state: C, D, C, C
+Updated state: B, C, D, D
 
-Score: 800.0
+Score: 799.0
 
-Step 731
+Step 727
 
-Current state: C, D, C, C
+Current state: B, C, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, C, C
+Updated state: B, C, C, D
+
+Score: 801.0
+
+Step 728
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
 
 Score: 802.0
 
+Step 729
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 803.0
+
+Step 730
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 804.0
+
+Step 731
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 805.0
+
 Step 732
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 806.0
+
+Step 733
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 807.0
+
+Step 734
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 808.0
+
+Step 735
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 809.0
+
+Step 736
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 810.0
+
+Step 737
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 811.0
+
+Step 738
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 812.0
+
+Step 739
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 813.0
+
+Step 740
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 814.0
+
+Step 741
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 815.0
+
+Step 742
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 816.0
+
+Step 743
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 817.0
+
+Step 744
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 818.0
+
+Step 745
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 819.0
+
+Step 746
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 820.0
+
+Step 747
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 821.0
+
+Step 748
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 822.0
+
+Step 749
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 823.0
+
+Step 750
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 824.0
+
+Step 751
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 826.0
+
+Step 752
 
 Current state: C, D, C, C
 
@@ -7318,207 +7518,7 @@ Action: no-op
 
 Updated state: C, D, C, C
 
-Score: 804.0
-
-Step 733
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 805.0
-
-Step 734
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 806.0
-
-Step 735
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 807.0
-
-Step 736
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 808.0
-
-Step 737
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 809.0
-
-Step 738
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 810.0
-
-Step 739
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 811.0
-
-Step 740
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 812.0
-
-Step 741
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 813.0
-
-Step 742
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 814.0
-
-Step 743
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 815.0
-
-Step 744
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 816.0
-
-Step 745
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 817.0
-
-Step 746
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 818.0
-
-Step 747
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 819.0
-
-Step 748
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 820.0
-
-Step 749
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 821.0
-
-Step 750
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 822.0
-
-Step 751
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 823.0
-
-Step 752
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 824.0
+Score: 828.0
 
 Step 753
 
@@ -7528,7 +7528,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 825.0
+Score: 829.0
 
 Step 754
 
@@ -7538,7 +7538,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 826.0
+Score: 830.0
 
 Step 755
 
@@ -7548,7 +7548,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 827.0
+Score: 831.0
 
 Step 756
 
@@ -7558,7 +7558,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 828.0
+Score: 832.0
 
 Step 757
 
@@ -7568,7 +7568,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 829.0
+Score: 833.0
 
 Step 758
 
@@ -7578,7 +7578,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 830.0
+Score: 834.0
 
 Step 759
 
@@ -7588,7 +7588,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 831.0
+Score: 835.0
 
 Step 760
 
@@ -7598,7 +7598,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 832.0
+Score: 836.0
 
 Step 761
 
@@ -7608,7 +7608,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 833.0
+Score: 837.0
 
 Step 762
 
@@ -7618,7 +7618,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 834.0
+Score: 838.0
 
 Step 763
 
@@ -7628,7 +7628,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 835.0
+Score: 839.0
 
 Step 764
 
@@ -7638,7 +7638,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 836.0
+Score: 840.0
 
 Step 765
 
@@ -7648,7 +7648,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 837.0
+Score: 841.0
 
 Step 766
 
@@ -7658,7 +7658,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 838.0
+Score: 842.0
 
 Step 767
 
@@ -7668,7 +7668,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 839.0
+Score: 843.0
 
 Step 768
 
@@ -7678,7 +7678,7 @@ Action: suck
 
 Updated state: C, D, D, C
 
-Score: 840.0
+Score: 844.0
 
 Step 769
 
@@ -7688,7 +7688,7 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 841.0
+Score: 845.0
 
 Step 770
 
@@ -7698,49 +7698,9 @@ Action: no-op
 
 Updated state: C, D, D, C
 
-Score: 842.0
-
-Step 771
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 843.0
-
-Step 772
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 844.0
-
-Step 773
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 845.0
-
-Step 774
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
 Score: 846.0
 
-Step 775
+Step 771
 
 Current state: C, D, D, C
 
@@ -7750,7 +7710,7 @@ Updated state: C, D, D, C
 
 Score: 847.0
 
-Step 776
+Step 772
 
 Current state: C, D, D, C
 
@@ -7760,7 +7720,7 @@ Updated state: C, D, D, C
 
 Score: 848.0
 
-Step 777
+Step 773
 
 Current state: C, D, D, C
 
@@ -7770,7 +7730,7 @@ Updated state: C, D, D, C
 
 Score: 849.0
 
-Step 778
+Step 774
 
 Current state: C, D, D, C
 
@@ -7780,7 +7740,7 @@ Updated state: C, D, D, C
 
 Score: 850.0
 
-Step 779
+Step 775
 
 Current state: C, D, D, C
 
@@ -7790,7 +7750,7 @@ Updated state: C, D, D, C
 
 Score: 851.0
 
-Step 780
+Step 776
 
 Current state: C, D, D, C
 
@@ -7800,7 +7760,7 @@ Updated state: C, D, D, C
 
 Score: 852.0
 
-Step 781
+Step 777
 
 Current state: C, D, D, C
 
@@ -7810,7 +7770,7 @@ Updated state: C, D, D, C
 
 Score: 853.0
 
-Step 782
+Step 778
 
 Current state: C, D, D, C
 
@@ -7820,7 +7780,7 @@ Updated state: C, D, D, C
 
 Score: 854.0
 
-Step 783
+Step 779
 
 Current state: C, D, D, C
 
@@ -7830,7 +7790,7 @@ Updated state: C, D, D, C
 
 Score: 855.0
 
-Step 784
+Step 780
 
 Current state: C, D, D, C
 
@@ -7840,7 +7800,7 @@ Updated state: C, D, D, C
 
 Score: 856.0
 
-Step 785
+Step 781
 
 Current state: C, D, D, C
 
@@ -7850,7 +7810,7 @@ Updated state: C, D, D, C
 
 Score: 857.0
 
-Step 786
+Step 782
 
 Current state: C, D, D, C
 
@@ -7860,27 +7820,27 @@ Updated state: C, D, D, C
 
 Score: 858.0
 
-Step 787
+Step 783
 
-Current state: C, D, D, C
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: C, D, D, C
 
 Score: 859.0
 
-Step 788
+Step 784
 
-Current state: C, D, D, C
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: C, D, D, C
 
 Score: 860.0
 
-Step 789
+Step 785
 
 Current state: C, D, D, C
 
@@ -7890,7 +7850,7 @@ Updated state: C, D, D, C
 
 Score: 861.0
 
-Step 790
+Step 786
 
 Current state: C, D, D, C
 
@@ -7900,17 +7860,17 @@ Updated state: C, D, D, C
 
 Score: 862.0
 
-Step 791
+Step 787
 
-Current state: C, D, D, C
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: C, D, D, C
 
 Score: 863.0
 
-Step 792
+Step 788
 
 Current state: C, D, D, C
 
@@ -7920,7 +7880,7 @@ Updated state: C, D, D, C
 
 Score: 864.0
 
-Step 793
+Step 789
 
 Current state: C, D, D, C
 
@@ -7930,17 +7890,17 @@ Updated state: C, D, D, C
 
 Score: 865.0
 
-Step 794
+Step 790
 
-Current state: C, D, D, C
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: C, D, D, C
 
 Score: 866.0
 
-Step 795
+Step 791
 
 Current state: C, D, D, C
 
@@ -7950,7 +7910,7 @@ Updated state: C, D, D, C
 
 Score: 867.0
 
-Step 796
+Step 792
 
 Current state: C, D, D, C
 
@@ -7960,17 +7920,17 @@ Updated state: C, D, D, C
 
 Score: 868.0
 
-Step 797
+Step 793
 
-Current state: C, D, D, C
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: C, D, D, C
 
 Score: 869.0
 
-Step 798
+Step 794
 
 Current state: C, D, D, C
 
@@ -7980,17 +7940,17 @@ Updated state: C, D, D, C
 
 Score: 870.0
 
-Step 799
+Step 795
 
-Current state: C, D, D, C
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
 Updated state: C, D, D, C
 
 Score: 871.0
 
-Step 800
+Step 796
 
 Current state: C, D, D, C
 
@@ -8000,7 +7960,7 @@ Updated state: C, D, D, C
 
 Score: 872.0
 
-Step 801
+Step 797
 
 Current state: C, D, D, C
 
@@ -8010,17 +7970,17 @@ Updated state: C, D, D, C
 
 Score: 873.0
 
-Step 802
+Step 798
 
-Current state: C, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
 Updated state: C, D, D, C
 
 Score: 874.0
 
-Step 803
+Step 799
 
 Current state: C, D, D, C
 
@@ -8030,7 +7990,7 @@ Updated state: C, D, D, C
 
 Score: 875.0
 
-Step 804
+Step 800
 
 Current state: C, D, D, C
 
@@ -8040,7 +8000,7 @@ Updated state: C, D, D, C
 
 Score: 876.0
 
-Step 805
+Step 801
 
 Current state: C, D, D, C
 
@@ -8050,17 +8010,17 @@ Updated state: C, D, D, C
 
 Score: 877.0
 
-Step 806
+Step 802
 
-Current state: C, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
 Updated state: C, D, D, C
 
 Score: 878.0
 
-Step 807
+Step 803
 
 Current state: C, D, D, C
 
@@ -8070,7 +8030,7 @@ Updated state: C, D, D, C
 
 Score: 879.0
 
-Step 808
+Step 804
 
 Current state: C, D, D, C
 
@@ -8080,7 +8040,7 @@ Updated state: C, D, D, C
 
 Score: 880.0
 
-Step 809
+Step 805
 
 Current state: C, D, D, C
 
@@ -8090,175 +8050,215 @@ Updated state: C, D, D, C
 
 Score: 881.0
 
-Step 810
+Step 806
 
-Current state: C, D, D, D
+Current state: C, D, D, C
 
-Action: left
+Action: no-op
 
-Updated state: B, D, D, D
-
-Score: 881.0
-
-Step 811
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 882.0
 
-Step 812
+Step 807
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 883.0
 
-Step 813
+Step 808
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 884.0
 
-Step 814
+Step 809
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 885.0
 
-Step 815
+Step 810
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 886.0
 
-Step 816
+Step 811
 
-Current state: B, D, D, D
+Current state: C, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 887.0
 
-Step 817
+Step 812
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 888.0
 
-Step 818
+Step 813
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 889.0
 
-Step 819
+Step 814
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 890.0
 
-Step 820
+Step 815
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 891.0
 
-Step 821
+Step 816
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 892.0
 
-Step 822
+Step 817
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 893.0
 
-Step 823
+Step 818
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 894.0
 
-Step 824
+Step 819
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 895.0
 
-Step 825
+Step 820
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
-Action: no-op
+Action: left
 
-Updated state: B, D, C, D
+Updated state: B, D, D, C
 
 Score: 896.0
 
-Step 826
+Step 821
 
-Current state: B, D, C, D
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 898.0
+
+Step 822
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 900.0
+
+Step 823
+
+Current state: B, D, C, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: B, D, C, C
 
-Score: 897.0
+Score: 902.0
+
+Step 824
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 904.0
+
+Step 825
+
+Current state: B, D, C, C
+
+Action: no-op
+
+Updated state: B, D, C, C
+
+Score: 906.0
+
+Step 826
+
+Current state: B, D, C, C
+
+Action: no-op
+
+Updated state: B, D, C, C
+
+Score: 908.0
 
 Step 827
 
@@ -8268,579 +8268,459 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 898.0
+Score: 909.0
 
 Step 828
 
 Current state: B, D, C, D
 
-Action: no-op
+Action: right
 
-Updated state: B, D, C, D
-
-Score: 899.0
-
-Step 829
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 900.0
-
-Step 830
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 901.0
-
-Step 831
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 902.0
-
-Step 832
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 903.0
-
-Step 833
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 904.0
-
-Step 834
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 905.0
-
-Step 835
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 906.0
-
-Step 836
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 907.0
-
-Step 837
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 908.0
-
-Step 838
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 909.0
-
-Step 839
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: C, D, C, D
 
 Score: 910.0
 
-Step 840
+Step 829
 
-Current state: B, D, C, D
+Current state: C, D, C, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
-
-Score: 911.0
-
-Step 841
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
+Updated state: C, D, C, C
 
 Score: 912.0
 
-Step 842
+Step 830
 
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 913.0
-
-Step 843
-
-Current state: B, D, C, D
+Current state: C, D, C, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, C, C
 
 Score: 914.0
 
-Step 844
+Step 831
 
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 915.0
-
-Step 845
-
-Current state: B, D, C, D
+Current state: C, D, C, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, C, C
 
 Score: 916.0
 
-Step 846
+Step 832
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 917.0
 
-Step 847
+Step 833
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 918.0
 
-Step 848
+Step 834
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 919.0
 
-Step 849
+Step 835
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 920.0
 
-Step 850
+Step 836
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 921.0
 
-Step 851
+Step 837
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 922.0
 
-Step 852
+Step 838
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 923.0
 
-Step 853
+Step 839
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 924.0
 
-Step 854
+Step 840
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 925.0
 
-Step 855
+Step 841
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 926.0
 
-Step 856
+Step 842
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 927.0
 
-Step 857
+Step 843
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 928.0
 
-Step 858
+Step 844
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 929.0
 
-Step 859
+Step 845
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 930.0
 
-Step 860
+Step 846
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 931.0
 
-Step 861
+Step 847
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 932.0
 
-Step 862
+Step 848
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 933.0
 
-Step 863
+Step 849
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 934.0
 
-Step 864
+Step 850
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 935.0
 
-Step 865
+Step 851
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 936.0
 
-Step 866
+Step 852
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 937.0
 
-Step 867
+Step 853
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 938.0
 
-Step 868
+Step 854
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 939.0
 
-Step 869
+Step 855
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 940.0
 
-Step 870
+Step 856
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 941.0
 
-Step 871
+Step 857
 
-Current state: B, D, C, D
+Current state: C, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 942.0
 
-Step 872
+Step 858
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
-Action: left
+Action: no-op
 
-Updated state: A, D, C, D
+Updated state: C, D, D, C
 
 Score: 943.0
 
-Step 873
+Step 859
 
-Current state: A, D, C, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: A, C, C, D
+Updated state: C, D, D, C
+
+Score: 944.0
+
+Step 860
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
 
 Score: 945.0
 
-Step 874
+Step 861
 
-Current state: A, D, C, D
+Current state: C, D, D, C
 
-Action: right
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 946.0
 
-Step 875
+Step 862
 
-Current state: B, D, D, D
+Current state: C, D, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 947.0
 
-Step 876
+Step 863
 
-Current state: B, D, C, D
+Current state: C, D, D, C
 
 Action: no-op
 
-Updated state: B, D, C, D
+Updated state: C, D, D, C
 
 Score: 948.0
 
-Step 877
+Step 864
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 949.0
+
+Step 865
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 950.0
+
+Step 866
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 951.0
+
+Step 867
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 952.0
+
+Step 868
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 953.0
+
+Step 869
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 954.0
+
+Step 870
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 955.0
+
+Step 871
+
+Current state: C, D, D, D
+
+Action: left
+
+Updated state: B, D, D, D
+
+Score: 955.0
+
+Step 872
 
 Current state: B, D, D, D
 
 Action: suck
-
-Updated state: B, D, C, D
-
-Score: 949.0
-
-Step 878
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 950.0
-
-Step 879
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 951.0
-
-Step 880
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 952.0
-
-Step 881
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 953.0
-
-Step 882
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 954.0
-
-Step 883
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 955.0
-
-Step 884
-
-Current state: B, D, C, D
-
-Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 956.0
 
-Step 885
+Step 873
 
 Current state: B, D, C, D
 
@@ -8850,7 +8730,7 @@ Updated state: B, D, C, D
 
 Score: 957.0
 
-Step 886
+Step 874
 
 Current state: B, D, C, D
 
@@ -8860,17 +8740,7 @@ Updated state: B, D, C, D
 
 Score: 958.0
 
-Step 887
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 959.0
-
-Step 888
+Step 875
 
 Current state: B, D, C, D
 
@@ -8878,9 +8748,19 @@ Action: no-op
 
 Updated state: B, D, C, D
 
+Score: 959.0
+
+Step 876
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
 Score: 960.0
 
-Step 889
+Step 877
 
 Current state: B, D, D, D
 
@@ -8890,27 +8770,27 @@ Updated state: B, D, C, D
 
 Score: 961.0
 
-Step 890
+Step 878
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 962.0
 
-Step 891
+Step 879
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 963.0
 
-Step 892
+Step 880
 
 Current state: B, D, C, D
 
@@ -8920,17 +8800,17 @@ Updated state: B, D, C, D
 
 Score: 964.0
 
-Step 893
+Step 881
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
 Score: 965.0
 
-Step 894
+Step 882
 
 Current state: B, D, C, D
 
@@ -8940,7 +8820,7 @@ Updated state: B, D, C, D
 
 Score: 966.0
 
-Step 895
+Step 883
 
 Current state: B, D, C, D
 
@@ -8950,6 +8830,126 @@ Updated state: B, D, C, D
 
 Score: 967.0
 
+Step 884
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 968.0
+
+Step 885
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 969.0
+
+Step 886
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 970.0
+
+Step 887
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 971.0
+
+Step 888
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 972.0
+
+Step 889
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 973.0
+
+Step 890
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 974.0
+
+Step 891
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 975.0
+
+Step 892
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 976.0
+
+Step 893
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 977.0
+
+Step 894
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 978.0
+
+Step 895
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 979.0
+
 Step 896
 
 Current state: B, D, D, D
@@ -8958,7 +8958,7 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 968.0
+Score: 980.0
 
 Step 897
 
@@ -8968,7 +8968,7 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 969.0
+Score: 981.0
 
 Step 898
 
@@ -8978,17 +8978,17 @@ Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 970.0
+Score: 982.0
 
 Step 899
 
-Current state: B, D, D, D
+Current state: B, D, C, D
 
-Action: suck
+Action: no-op
 
 Updated state: B, D, C, D
 
-Score: 971.0
+Score: 983.0
 
 Step 900
 
@@ -8998,659 +8998,119 @@ Action: suck
 
 Updated state: B, D, C, D
 
-Score: 972.0
+Score: 984.0
 
 Step 901
 
-Current state: B, D, D, D
-
-Action: right
-
-Updated state: C, D, D, D
-
-Score: 972.0
-
-Step 902
-
-Current state: C, D, D, D
-
-Action: suck
-
-Updated state: C, D, D, C
-
-Score: 973.0
-
-Step 903
-
-Current state: C, D, D, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: C, D, D, C
-
-Score: 974.0
-
-Step 904
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 975.0
-
-Step 905
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 976.0
-
-Step 906
-
-Current state: C, D, D, C
-
-Action: left
-
-Updated state: B, D, D, C
-
-Score: 977.0
-
-Step 907
-
-Current state: B, D, D, C
-
-Action: suck
-
-Updated state: B, D, C, C
-
-Score: 979.0
-
-Step 908
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 981.0
-
-Step 909
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 983.0
-
-Step 910
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
+Updated state: B, D, C, D
 
 Score: 985.0
 
-Step 911
+Step 902
 
-Current state: B, D, C, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: B, D, C, C
+Updated state: B, D, C, D
+
+Score: 986.0
+
+Step 903
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 987.0
 
-Step 912
+Step 904
 
-Current state: B, D, D, C
+Current state: B, D, D, D
 
 Action: suck
 
-Updated state: B, D, C, C
+Updated state: B, D, C, D
+
+Score: 988.0
+
+Step 905
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
 
 Score: 989.0
 
-Step 913
+Step 906
 
-Current state: B, D, C, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: B, D, C, C
+Updated state: B, D, C, D
+
+Score: 990.0
+
+Step 907
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
 
 Score: 991.0
 
-Step 914
+Step 908
 
-Current state: B, D, C, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: B, D, C, C
+Updated state: B, D, C, D
+
+Score: 992.0
+
+Step 909
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 993.0
 
-Step 915
+Step 910
 
-Current state: B, D, C, C
+Current state: B, D, C, D
 
 Action: no-op
 
-Updated state: B, D, C, C
+Updated state: B, D, C, D
+
+Score: 994.0
+
+Step 911
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
 
 Score: 995.0
 
-Step 916
-
-Current state: B, D, C, C
-
-Action: no-op
-
-Updated state: B, D, C, C
-
-Score: 997.0
-
-Step 917
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 998.0
-
-Step 918
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 999.0
-
-Step 919
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1000.0
-
-Step 920
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 1001.0
-
-Step 921
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1002.0
-
-Step 922
-
-Current state: B, D, C, D
-
-Action: left
-
-Updated state: A, D, C, D
-
-Score: 1003.0
-
-Step 923
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 1005.0
-
-Step 924
-
-Current state: A, D, C, D
-
-Action: suck
-
-Updated state: A, C, C, D
-
-Score: 1007.0
-
-Step 925
-
-Current state: A, D, D, D
-
-Action: suck
-
-Updated state: A, C, D, D
-
-Score: 1008.0
-
-Step 926
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 1009.0
-
-Step 927
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 1010.0
-
-Step 928
-
-Current state: A, C, D, D
-
-Action: no-op
-
-Updated state: A, C, D, D
-
-Score: 1011.0
-
-Step 929
-
-Current state: A, C, D, D
-
-Action: right
-
-Updated state: B, C, D, D
-
-Score: 1012.0
-
-Step 930
-
-Current state: B, C, D, D
-
-Action: suck
-
-Updated state: B, C, C, D
-
-Score: 1014.0
-
-Step 931
-
-Current state: B, C, D, D
-
-Action: suck
-
-Updated state: B, C, C, D
-
-Score: 1016.0
-
-Step 932
-
-Current state: B, C, C, D
-
-Action: no-op
-
-Updated state: B, C, C, D
-
-Score: 1018.0
-
-Step 933
-
-Current state: B, C, D, D
-
-Action: suck
-
-Updated state: B, C, C, D
-
-Score: 1020.0
-
-Step 934
-
-Current state: B, C, C, D
-
-Action: no-op
-
-Updated state: B, C, C, D
-
-Score: 1022.0
-
-Step 935
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1023.0
-
-Step 936
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1024.0
-
-Step 937
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1025.0
-
-Step 938
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1026.0
-
-Step 939
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1027.0
-
-Step 940
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1028.0
-
-Step 941
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1029.0
-
-Step 942
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 1030.0
-
-Step 943
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1031.0
-
-Step 944
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1032.0
-
-Step 945
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1033.0
-
-Step 946
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1034.0
-
-Step 947
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1035.0
-
-Step 948
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1036.0
-
-Step 949
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1037.0
-
-Step 950
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 1038.0
-
-Step 951
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1039.0
-
-Step 952
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1040.0
-
-Step 953
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1041.0
-
-Step 954
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1042.0
-
-Step 955
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1043.0
-
-Step 956
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1044.0
-
-Step 957
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1045.0
-
-Step 958
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1046.0
-
-Step 959
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1047.0
-
-Step 960
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1048.0
-
-Step 961
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 1049.0
-
-Step 962
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1050.0
-
-Step 963
-
-Current state: B, D, C, D
-
-Action: no-op
-
-Updated state: B, D, C, D
-
-Score: 1051.0
-
-Step 964
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 1052.0
-
-Step 965
-
-Current state: B, D, D, D
-
-Action: suck
-
-Updated state: B, D, C, D
-
-Score: 1053.0
-
-Step 966
+Step 912
 
 Current state: B, D, C, D
 
@@ -9658,345 +9118,885 @@ Action: right
 
 Updated state: C, D, C, D
 
-Score: 1054.0
+Score: 996.0
 
-Step 967
+Step 913
 
 Current state: C, D, C, D
 
 Action: suck
 
 Updated state: C, D, C, C
+
+Score: 998.0
+
+Step 914
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 999.0
+
+Step 915
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1000.0
+
+Step 916
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1001.0
+
+Step 917
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1002.0
+
+Step 918
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1003.0
+
+Step 919
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1004.0
+
+Step 920
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1005.0
+
+Step 921
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1006.0
+
+Step 922
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1007.0
+
+Step 923
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1008.0
+
+Step 924
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1009.0
+
+Step 925
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1010.0
+
+Step 926
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1011.0
+
+Step 927
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1012.0
+
+Step 928
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1013.0
+
+Step 929
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1014.0
+
+Step 930
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1015.0
+
+Step 931
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1016.0
+
+Step 932
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 1017.0
+
+Step 933
+
+Current state: C, D, D, C
+
+Action: left
+
+Updated state: B, D, D, C
+
+Score: 1018.0
+
+Step 934
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 1020.0
+
+Step 935
+
+Current state: B, D, C, C
+
+Action: left
+
+Updated state: A, D, C, C
+
+Score: 1022.0
+
+Step 936
+
+Current state: A, D, C, C
+
+Action: suck
+
+Updated state: A, C, C, C
+
+Score: 1025.0
+
+Step 937
+
+Current state: A, C, C, C
+
+Action: no-op
+
+Updated state: A, C, C, C
+
+Score: 1028.0
+
+Step 938
+
+Current state: A, C, C, C
+
+Action: no-op
+
+Updated state: A, C, C, C
+
+Score: 1031.0
+
+Step 939
+
+Current state: A, D, C, C
+
+Action: suck
+
+Updated state: A, C, C, C
+
+Score: 1034.0
+
+Step 940
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
+
+Score: 1036.0
+
+Step 941
+
+Current state: A, C, D, C
+
+Action: no-op
+
+Updated state: A, C, D, C
+
+Score: 1038.0
+
+Step 942
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
+
+Score: 1040.0
+
+Step 943
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
+
+Score: 1042.0
+
+Step 944
+
+Current state: A, C, D, C
+
+Action: no-op
+
+Updated state: A, C, D, C
+
+Score: 1044.0
+
+Step 945
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
+
+Score: 1046.0
+
+Step 946
+
+Current state: A, C, D, C
+
+Action: no-op
+
+Updated state: A, C, D, C
+
+Score: 1048.0
+
+Step 947
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
+
+Score: 1050.0
+
+Step 948
+
+Current state: A, C, D, C
+
+Action: no-op
+
+Updated state: A, C, D, C
+
+Score: 1052.0
+
+Step 949
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
+
+Score: 1054.0
+
+Step 950
+
+Current state: A, D, D, C
+
+Action: suck
+
+Updated state: A, C, D, C
 
 Score: 1056.0
 
-Step 968
+Step 951
 
-Current state: C, D, C, C
+Current state: A, C, D, C
 
 Action: no-op
 
-Updated state: C, D, C, C
+Updated state: A, C, D, C
 
 Score: 1058.0
 
-Step 969
+Step 952
 
-Current state: C, D, C, C
+Current state: A, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, C, C
+Updated state: A, C, D, C
 
 Score: 1060.0
 
-Step 970
+Step 953
 
-Current state: C, D, C, D
+Current state: A, C, D, C
 
-Action: suck
+Action: no-op
 
-Updated state: C, D, C, C
+Updated state: A, C, D, C
 
 Score: 1062.0
 
-Step 971
+Step 954
 
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 1063.0
-
-Step 972
-
-Current state: C, D, D, C
+Current state: A, C, D, C
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, C
 
 Score: 1064.0
 
-Step 973
+Step 955
 
-Current state: C, D, D, C
+Current state: A, D, D, C
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
-
-Score: 1065.0
-
-Step 974
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
+Updated state: A, C, D, C
 
 Score: 1066.0
 
-Step 975
+Step 956
 
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 1067.0
-
-Step 976
-
-Current state: C, D, D, C
+Current state: A, C, D, C
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, C
 
 Score: 1068.0
 
-Step 977
+Step 957
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1069.0
 
-Step 978
+Step 958
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1070.0
 
-Step 979
+Step 959
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1071.0
 
-Step 980
+Step 960
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1072.0
 
-Step 981
+Step 961
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1073.0
 
-Step 982
+Step 962
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1074.0
 
-Step 983
+Step 963
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1075.0
 
-Step 984
+Step 964
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1076.0
 
-Step 985
+Step 965
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1077.0
 
-Step 986
+Step 966
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1078.0
 
-Step 987
+Step 967
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1079.0
 
-Step 988
+Step 968
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1080.0
 
-Step 989
+Step 969
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1081.0
 
-Step 990
+Step 970
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1082.0
 
-Step 991
+Step 971
 
-Current state: C, D, D, C
+Current state: A, D, D, D
 
-Action: no-op
+Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1083.0
 
-Step 992
+Step 972
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1084.0
 
-Step 993
+Step 973
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1085.0
 
-Step 994
+Step 974
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1086.0
 
-Step 995
+Step 975
 
-Current state: C, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1087.0
 
-Step 996
+Step 976
 
-Current state: C, D, D, C
+Current state: A, C, D, D
 
 Action: no-op
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
 
 Score: 1088.0
 
-Step 997
+Step 977
 
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 1089.0
-
-Step 998
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 1090.0
-
-Step 999
-
-Current state: C, D, D, C
-
-Action: no-op
-
-Updated state: C, D, D, C
-
-Score: 1091.0
-
-Step 1000
-
-Current state: C, D, D, D
+Current state: A, D, D, D
 
 Action: suck
 
-Updated state: C, D, D, C
+Updated state: A, C, D, D
+
+Score: 1089.0
+
+Step 978
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1090.0
+
+Step 979
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1091.0
+
+Step 980
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
 
 Score: 1092.0
+
+Step 981
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1093.0
+
+Step 982
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1094.0
+
+Step 983
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1095.0
+
+Step 984
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1096.0
+
+Step 985
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1097.0
+
+Step 986
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1098.0
+
+Step 987
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1099.0
+
+Step 988
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1100.0
+
+Step 989
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1101.0
+
+Step 990
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1102.0
+
+Step 991
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1103.0
+
+Step 992
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1104.0
+
+Step 993
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1105.0
+
+Step 994
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1106.0
+
+Step 995
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1107.0
+
+Step 996
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1108.0
+
+Step 997
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1109.0
+
+Step 998
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1110.0
+
+Step 999
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1111.0
+
+Step 1000
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 1112.0
 

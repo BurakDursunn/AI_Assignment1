@@ -1,22 +1,32 @@
 Results
 
 Configuration #1
-Average score for agent A: 1033.6
-Average score for agent B: 999.15
+Average score for agent A: 1024.8
+Average score for agent B: 1005.5
+Standard deviation for agent A: 29.17
+Standard deviation for agent B: 31.96
 
 Configuration #2
-Average score for agent A: 1095.4
-Average score for agent B: 1077.35
+Average score for agent A: 1086.8
+Average score for agent B: 1056.25
+Standard deviation for agent A: 51.32
+Standard deviation for agent B: 53.66
 
 Configuration #3
-Average score for agent A: 1040.3
-Average score for agent B: 1036.0
+Average score for agent A: 1056.1
+Average score for agent B: 1029.6
+Standard deviation for agent A: 31.04
+Standard deviation for agent B: 24.97
 
 Configuration #4
-Average score for agent A: 1124.3
-Average score for agent B: 1092.35
+Average score for agent A: 1085.1
+Average score for agent B: 1101.45
+Standard deviation for agent A: 51.6
+Standard deviation for agent B: 51.36
 
 Configuration #5
-Average score for agent A: 1006.3
-Average score for agent B: 984.6
+Average score for agent A: 1004.0
+Average score for agent B: 993.0
+Standard deviation for agent A: 22.78
+Standard deviation for agent B: 12.86
 
