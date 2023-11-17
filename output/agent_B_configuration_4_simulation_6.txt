@@ -1,0 +1,10002 @@
+Simulation #6 for agent B with configuration #4
+
+Step 1
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1.0
+
+Step 2
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 2.0
+
+Step 3
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 3.0
+
+Step 4
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 4.0
+
+Step 5
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 4.5
+
+Step 6
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 6.5
+
+Step 7
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 8.5
+
+Step 8
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 10.5
+
+Step 9
+
+Current state: A, C, D, D
+
+Action: no-op
+
+Updated state: A, C, D, D
+
+Score: 11.5
+
+Step 10
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 12.5
+
+Step 11
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 13.5
+
+Step 12
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 14.5
+
+Step 13
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 15.5
+
+Step 14
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 16.5
+
+Step 15
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 17.5
+
+Step 16
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 18.5
+
+Step 17
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 19.5
+
+Step 18
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 20.5
+
+Step 19
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 21.5
+
+Step 20
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 22.5
+
+Step 21
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 23.5
+
+Step 22
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 23.5
+
+Step 23
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 24.5
+
+Step 24
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 25.5
+
+Step 25
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 26.5
+
+Step 26
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 27.5
+
+Step 27
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 28.5
+
+Step 28
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 29.5
+
+Step 29
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 30.5
+
+Step 30
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 31.5
+
+Step 31
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 32.5
+
+Step 32
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 33.5
+
+Step 33
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 34.5
+
+Step 34
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 35.5
+
+Step 35
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 36.5
+
+Step 36
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 37.5
+
+Step 37
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 38.0
+
+Step 38
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 39.0
+
+Step 39
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 40.0
+
+Step 40
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 41.0
+
+Step 41
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 42.0
+
+Step 42
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 43.0
+
+Step 43
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 44.0
+
+Step 44
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 45.0
+
+Step 45
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 46.0
+
+Step 46
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 47.0
+
+Step 47
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 48.0
+
+Step 48
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 48.5
+
+Step 49
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 50.5
+
+Step 50
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 52.5
+
+Step 51
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 54.5
+
+Step 52
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 55.5
+
+Step 53
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 56.5
+
+Step 54
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 57.5
+
+Step 55
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 58.5
+
+Step 56
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 59.5
+
+Step 57
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 60.5
+
+Step 58
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 61.5
+
+Step 59
+
+Current state: A, D, D, D
+
+Action: right
+
+Updated state: B, D, D, D
+
+Score: 61.0
+
+Step 60
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 62.0
+
+Step 61
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 63.0
+
+Step 62
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 64.0
+
+Step 63
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 64.5
+
+Step 64
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 66.5
+
+Step 65
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 68.5
+
+Step 66
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 70.5
+
+Step 67
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 72.5
+
+Step 68
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 72.5
+
+Step 69
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 73.5
+
+Step 70
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 74.5
+
+Step 71
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 75.5
+
+Step 72
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 76.5
+
+Step 73
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 77.5
+
+Step 74
+
+Current state: A, D, D, D
+
+Action: right
+
+Updated state: B, D, D, D
+
+Score: 77.0
+
+Step 75
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 78.0
+
+Step 76
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 78.5
+
+Step 77
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 80.5
+
+Step 78
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 82.5
+
+Step 79
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 84.5
+
+Step 80
+
+Current state: C, D, C, C
+
+Action: left
+
+Updated state: B, D, C, C
+
+Score: 86.0
+
+Step 81
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 88.0
+
+Step 82
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 90.0
+
+Step 83
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 92.0
+
+Step 84
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 94.0
+
+Step 85
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 95.0
+
+Step 86
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 96.0
+
+Step 87
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 97.0
+
+Step 88
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 98.0
+
+Step 89
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 99.0
+
+Step 90
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 100.0
+
+Step 91
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 101.0
+
+Step 92
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 102.0
+
+Step 93
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 103.0
+
+Step 94
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 104.0
+
+Step 95
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 105.0
+
+Step 96
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 106.0
+
+Step 97
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 107.0
+
+Step 98
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 108.0
+
+Step 99
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 109.0
+
+Step 100
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 110.0
+
+Step 101
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 111.0
+
+Step 102
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 112.0
+
+Step 103
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 113.0
+
+Step 104
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 114.0
+
+Step 105
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 115.0
+
+Step 106
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 116.0
+
+Step 107
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 117.0
+
+Step 108
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 118.0
+
+Step 109
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 119.0
+
+Step 110
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 120.0
+
+Step 111
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 121.0
+
+Step 112
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 122.0
+
+Step 113
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 123.0
+
+Step 114
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 124.0
+
+Step 115
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 125.0
+
+Step 116
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 126.0
+
+Step 117
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 127.0
+
+Step 118
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 128.0
+
+Step 119
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 129.0
+
+Step 120
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 130.0
+
+Step 121
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 131.0
+
+Step 122
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 132.0
+
+Step 123
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 133.0
+
+Step 124
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 134.0
+
+Step 125
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 135.0
+
+Step 126
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 136.0
+
+Step 127
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 137.0
+
+Step 128
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 138.0
+
+Step 129
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 139.0
+
+Step 130
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 140.0
+
+Step 131
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 141.0
+
+Step 132
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 142.0
+
+Step 133
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 143.0
+
+Step 134
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 144.0
+
+Step 135
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 145.0
+
+Step 136
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 146.0
+
+Step 137
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 147.0
+
+Step 138
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 148.0
+
+Step 139
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 149.0
+
+Step 140
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 150.0
+
+Step 141
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 151.0
+
+Step 142
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 151.5
+
+Step 143
+
+Current state: A, D, C, D
+
+Action: no-op
+
+Updated state: A, D, C, D
+
+Score: 152.5
+
+Step 144
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 154.5
+
+Step 145
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 156.5
+
+Step 146
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 158.5
+
+Step 147
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 160.5
+
+Step 148
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 162.5
+
+Step 149
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 164.5
+
+Step 150
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 166.5
+
+Step 151
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 168.5
+
+Step 152
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 170.5
+
+Step 153
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 172.5
+
+Step 154
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 174.5
+
+Step 155
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 176.5
+
+Step 156
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 178.5
+
+Step 157
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 180.5
+
+Step 158
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 181.5
+
+Step 159
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 182.5
+
+Step 160
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 183.5
+
+Step 161
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 184.5
+
+Step 162
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 185.5
+
+Step 163
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 186.5
+
+Step 164
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 187.5
+
+Step 165
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 188.5
+
+Step 166
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 189.5
+
+Step 167
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 190.5
+
+Step 168
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 191.5
+
+Step 169
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 192.5
+
+Step 170
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 193.5
+
+Step 171
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 194.5
+
+Step 172
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 195.5
+
+Step 173
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 195.5
+
+Step 174
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 196.5
+
+Step 175
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 197.5
+
+Step 176
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 198.5
+
+Step 177
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 199.5
+
+Step 178
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 200.5
+
+Step 179
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 201.5
+
+Step 180
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 202.5
+
+Step 181
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 203.5
+
+Step 182
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 204.5
+
+Step 183
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 205.5
+
+Step 184
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 206.5
+
+Step 185
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 207.5
+
+Step 186
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 208.5
+
+Step 187
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 209.5
+
+Step 188
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 210.5
+
+Step 189
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 211.5
+
+Step 190
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 212.5
+
+Step 191
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 213.5
+
+Step 192
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 214.5
+
+Step 193
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 215.5
+
+Step 194
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 216.5
+
+Step 195
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 217.5
+
+Step 196
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 218.5
+
+Step 197
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 219.5
+
+Step 198
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 220.5
+
+Step 199
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 221.5
+
+Step 200
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 222.5
+
+Step 201
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 223.5
+
+Step 202
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 224.5
+
+Step 203
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 225.5
+
+Step 204
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 226.5
+
+Step 205
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 227.5
+
+Step 206
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 228.5
+
+Step 207
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 229.5
+
+Step 208
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 230.5
+
+Step 209
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 231.5
+
+Step 210
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 232.5
+
+Step 211
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 233.5
+
+Step 212
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 234.5
+
+Step 213
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 235.5
+
+Step 214
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 236.5
+
+Step 215
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 237.5
+
+Step 216
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 238.5
+
+Step 217
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 239.5
+
+Step 218
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 240.5
+
+Step 219
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 241.5
+
+Step 220
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 242.5
+
+Step 221
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 243.5
+
+Step 222
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 244.5
+
+Step 223
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 245.5
+
+Step 224
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 246.5
+
+Step 225
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 247.5
+
+Step 226
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 248.5
+
+Step 227
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 249.5
+
+Step 228
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 250.5
+
+Step 229
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 251.5
+
+Step 230
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 252.5
+
+Step 231
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 253.5
+
+Step 232
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 254.5
+
+Step 233
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 255.5
+
+Step 234
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 256.5
+
+Step 235
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 257.5
+
+Step 236
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 258.5
+
+Step 237
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 258.5
+
+Step 238
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 259.5
+
+Step 239
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 260.5
+
+Step 240
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 261.5
+
+Step 241
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 262.5
+
+Step 242
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 263.5
+
+Step 243
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 264.5
+
+Step 244
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 265.5
+
+Step 245
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 266.5
+
+Step 246
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 267.5
+
+Step 247
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 268.5
+
+Step 248
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 269.5
+
+Step 249
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 270.5
+
+Step 250
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 271.5
+
+Step 251
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 272.5
+
+Step 252
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 273.5
+
+Step 253
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 274.5
+
+Step 254
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 275.5
+
+Step 255
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 276.5
+
+Step 256
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 277.5
+
+Step 257
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 278.5
+
+Step 258
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 279.5
+
+Step 259
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 280.5
+
+Step 260
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 281.5
+
+Step 261
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 282.5
+
+Step 262
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 283.5
+
+Step 263
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 284.5
+
+Step 264
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 285.5
+
+Step 265
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 286.5
+
+Step 266
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 287.5
+
+Step 267
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 288.5
+
+Step 268
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 289.5
+
+Step 269
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 290.5
+
+Step 270
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 291.5
+
+Step 271
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 292.5
+
+Step 272
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 293.5
+
+Step 273
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 294.5
+
+Step 274
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 295.5
+
+Step 275
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 296.5
+
+Step 276
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 297.5
+
+Step 277
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 298.5
+
+Step 278
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 299.5
+
+Step 279
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 300.5
+
+Step 280
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 301.5
+
+Step 281
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 302.5
+
+Step 282
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 303.5
+
+Step 283
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 304.5
+
+Step 284
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 305.5
+
+Step 285
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 306.5
+
+Step 286
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 307.5
+
+Step 287
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 308.5
+
+Step 288
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 309.5
+
+Step 289
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 310.5
+
+Step 290
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 311.5
+
+Step 291
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 312.5
+
+Step 292
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 313.5
+
+Step 293
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 314.5
+
+Step 294
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 315.5
+
+Step 295
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 316.5
+
+Step 296
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 317.5
+
+Step 297
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 318.5
+
+Step 298
+
+Current state: A, D, D, D
+
+Action: right
+
+Updated state: B, D, D, D
+
+Score: 318.0
+
+Step 299
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 319.0
+
+Step 300
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 320.0
+
+Step 301
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 321.0
+
+Step 302
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 322.0
+
+Step 303
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 323.0
+
+Step 304
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 324.0
+
+Step 305
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 325.0
+
+Step 306
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 326.0
+
+Step 307
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 327.0
+
+Step 308
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 328.0
+
+Step 309
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 329.0
+
+Step 310
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 330.0
+
+Step 311
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 331.0
+
+Step 312
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 332.0
+
+Step 313
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 333.0
+
+Step 314
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 334.0
+
+Step 315
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 335.0
+
+Step 316
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 336.0
+
+Step 317
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 337.0
+
+Step 318
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 338.0
+
+Step 319
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 339.0
+
+Step 320
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 340.0
+
+Step 321
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 341.0
+
+Step 322
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 342.0
+
+Step 323
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 343.0
+
+Step 324
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 344.0
+
+Step 325
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 345.0
+
+Step 326
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 346.0
+
+Step 327
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 347.0
+
+Step 328
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 348.0
+
+Step 329
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 349.0
+
+Step 330
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 350.0
+
+Step 331
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 351.0
+
+Step 332
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 352.0
+
+Step 333
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 353.0
+
+Step 334
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 354.0
+
+Step 335
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 355.0
+
+Step 336
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 356.0
+
+Step 337
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 357.0
+
+Step 338
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 358.0
+
+Step 339
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 359.0
+
+Step 340
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 360.0
+
+Step 341
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 361.0
+
+Step 342
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 362.0
+
+Step 343
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 363.0
+
+Step 344
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 364.0
+
+Step 345
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 365.0
+
+Step 346
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 366.0
+
+Step 347
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 367.0
+
+Step 348
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 368.0
+
+Step 349
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 369.0
+
+Step 350
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 370.0
+
+Step 351
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 371.0
+
+Step 352
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 372.0
+
+Step 353
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 372.5
+
+Step 354
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 374.5
+
+Step 355
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 376.5
+
+Step 356
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 378.5
+
+Step 357
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 380.5
+
+Step 358
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 382.5
+
+Step 359
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 383.5
+
+Step 360
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 384.5
+
+Step 361
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 385.5
+
+Step 362
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 386.5
+
+Step 363
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 387.5
+
+Step 364
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 388.5
+
+Step 365
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 389.5
+
+Step 366
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 390.5
+
+Step 367
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 391.5
+
+Step 368
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 392.5
+
+Step 369
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 393.5
+
+Step 370
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 394.5
+
+Step 371
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 395.5
+
+Step 372
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 396.5
+
+Step 373
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 397.5
+
+Step 374
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 398.5
+
+Step 375
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 399.5
+
+Step 376
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 400.5
+
+Step 377
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 401.5
+
+Step 378
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 402.5
+
+Step 379
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 403.5
+
+Step 380
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 404.5
+
+Step 381
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 405.5
+
+Step 382
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 406.5
+
+Step 383
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 407.5
+
+Step 384
+
+Current state: C, D, D, D
+
+Action: no-op
+
+Updated state: C, D, D, D
+
+Score: 407.5
+
+Step 385
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 408.5
+
+Step 386
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 409.5
+
+Step 387
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 410.5
+
+Step 388
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 411.5
+
+Step 389
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 412.5
+
+Step 390
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 413.5
+
+Step 391
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 414.5
+
+Step 392
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 415.5
+
+Step 393
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 416.5
+
+Step 394
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 417.5
+
+Step 395
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 418.5
+
+Step 396
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 419.5
+
+Step 397
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 420.5
+
+Step 398
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 421.5
+
+Step 399
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 422.5
+
+Step 400
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 423.5
+
+Step 401
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 424.5
+
+Step 402
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 425.5
+
+Step 403
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 426.5
+
+Step 404
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 427.5
+
+Step 405
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 428.5
+
+Step 406
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 429.5
+
+Step 407
+
+Current state: C, D, D, D
+
+Action: left
+
+Updated state: B, D, D, D
+
+Score: 429.0
+
+Step 408
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 430.0
+
+Step 409
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 431.0
+
+Step 410
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 432.0
+
+Step 411
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 433.0
+
+Step 412
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 434.0
+
+Step 413
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 435.0
+
+Step 414
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 436.0
+
+Step 415
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 437.0
+
+Step 416
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 438.0
+
+Step 417
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 439.0
+
+Step 418
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 440.0
+
+Step 419
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 441.0
+
+Step 420
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 442.0
+
+Step 421
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 443.0
+
+Step 422
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 444.0
+
+Step 423
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 445.0
+
+Step 424
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 446.0
+
+Step 425
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 447.0
+
+Step 426
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 448.0
+
+Step 427
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 449.0
+
+Step 428
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 450.0
+
+Step 429
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 451.0
+
+Step 430
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 452.0
+
+Step 431
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 453.0
+
+Step 432
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 454.0
+
+Step 433
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 455.0
+
+Step 434
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 456.0
+
+Step 435
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 457.0
+
+Step 436
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 458.0
+
+Step 437
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 459.0
+
+Step 438
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 460.0
+
+Step 439
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 461.0
+
+Step 440
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 462.0
+
+Step 441
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 462.5
+
+Step 442
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 464.5
+
+Step 443
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 466.5
+
+Step 444
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 468.5
+
+Step 445
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 470.5
+
+Step 446
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 472.5
+
+Step 447
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 474.5
+
+Step 448
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 476.5
+
+Step 449
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 478.5
+
+Step 450
+
+Current state: A, C, C, D
+
+Action: no-op
+
+Updated state: A, C, C, D
+
+Score: 480.5
+
+Step 451
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 482.5
+
+Step 452
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 484.5
+
+Step 453
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 486.5
+
+Step 454
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 488.5
+
+Step 455
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 490.5
+
+Step 456
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 491.5
+
+Step 457
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 492.5
+
+Step 458
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 493.5
+
+Step 459
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 494.5
+
+Step 460
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 495.5
+
+Step 461
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 496.5
+
+Step 462
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 497.5
+
+Step 463
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 498.5
+
+Step 464
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 499.0
+
+Step 465
+
+Current state: B, C, D, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 501.0
+
+Step 466
+
+Current state: B, C, C, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 503.0
+
+Step 467
+
+Current state: B, C, C, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 505.0
+
+Step 468
+
+Current state: B, C, C, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 507.0
+
+Step 469
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 508.0
+
+Step 470
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 509.0
+
+Step 471
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 510.0
+
+Step 472
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 511.0
+
+Step 473
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 512.0
+
+Step 474
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 513.0
+
+Step 475
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 514.0
+
+Step 476
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 515.0
+
+Step 477
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 516.0
+
+Step 478
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 517.0
+
+Step 479
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 518.0
+
+Step 480
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 519.0
+
+Step 481
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 520.0
+
+Step 482
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 521.0
+
+Step 483
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 521.5
+
+Step 484
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 523.5
+
+Step 485
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 524.5
+
+Step 486
+
+Current state: A, D, D, D
+
+Action: right
+
+Updated state: B, D, D, D
+
+Score: 524.0
+
+Step 487
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 525.0
+
+Step 488
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 526.0
+
+Step 489
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 527.0
+
+Step 490
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 528.0
+
+Step 491
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 529.0
+
+Step 492
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 530.0
+
+Step 493
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 531.0
+
+Step 494
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 532.0
+
+Step 495
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 533.0
+
+Step 496
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 534.0
+
+Step 497
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 535.0
+
+Step 498
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 536.0
+
+Step 499
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 537.0
+
+Step 500
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 538.0
+
+Step 501
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 539.0
+
+Step 502
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 540.0
+
+Step 503
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 541.0
+
+Step 504
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 542.0
+
+Step 505
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 543.0
+
+Step 506
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 544.0
+
+Step 507
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 545.0
+
+Step 508
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 546.0
+
+Step 509
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 547.0
+
+Step 510
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 548.0
+
+Step 511
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 549.0
+
+Step 512
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 550.0
+
+Step 513
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 551.0
+
+Step 514
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 552.0
+
+Step 515
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 553.0
+
+Step 516
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 554.0
+
+Step 517
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 555.0
+
+Step 518
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 556.0
+
+Step 519
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 557.0
+
+Step 520
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 558.0
+
+Step 521
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 559.0
+
+Step 522
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 560.0
+
+Step 523
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 561.0
+
+Step 524
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 562.0
+
+Step 525
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 563.0
+
+Step 526
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 564.0
+
+Step 527
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 565.0
+
+Step 528
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 566.0
+
+Step 529
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 567.0
+
+Step 530
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 567.5
+
+Step 531
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 569.5
+
+Step 532
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 571.5
+
+Step 533
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 573.5
+
+Step 534
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 575.5
+
+Step 535
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 577.5
+
+Step 536
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 579.5
+
+Step 537
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 581.5
+
+Step 538
+
+Current state: A, D, C, D
+
+Action: no-op
+
+Updated state: A, D, C, D
+
+Score: 582.5
+
+Step 539
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 584.5
+
+Step 540
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 586.5
+
+Step 541
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 587.5
+
+Step 542
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 588.5
+
+Step 543
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 589.5
+
+Step 544
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 590.5
+
+Step 545
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 591.5
+
+Step 546
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 592.0
+
+Step 547
+
+Current state: B, C, D, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 594.0
+
+Step 548
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 595.0
+
+Step 549
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 596.0
+
+Step 550
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 597.0
+
+Step 551
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 598.0
+
+Step 552
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 599.0
+
+Step 553
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 600.0
+
+Step 554
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 600.5
+
+Step 555
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 602.5
+
+Step 556
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 604.5
+
+Step 557
+
+Current state: A, C, C, D
+
+Action: right
+
+Updated state: B, C, C, D
+
+Score: 606.0
+
+Step 558
+
+Current state: B, C, C, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 608.0
+
+Step 559
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 609.0
+
+Step 560
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 610.0
+
+Step 561
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 611.0
+
+Step 562
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 612.0
+
+Step 563
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 613.0
+
+Step 564
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 614.0
+
+Step 565
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 615.0
+
+Step 566
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 616.0
+
+Step 567
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 617.0
+
+Step 568
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 617.5
+
+Step 569
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 618.5
+
+Step 570
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 619.5
+
+Step 571
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 620.5
+
+Step 572
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 621.5
+
+Step 573
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 622.5
+
+Step 574
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 623.5
+
+Step 575
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 624.5
+
+Step 576
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 625.5
+
+Step 577
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 626.5
+
+Step 578
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 627.5
+
+Step 579
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 628.5
+
+Step 580
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 629.5
+
+Step 581
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 630.5
+
+Step 582
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 631.5
+
+Step 583
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 632.5
+
+Step 584
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 633.5
+
+Step 585
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 634.5
+
+Step 586
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 635.5
+
+Step 587
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 636.5
+
+Step 588
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 637.5
+
+Step 589
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 638.5
+
+Step 590
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 639.5
+
+Step 591
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 640.5
+
+Step 592
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 641.5
+
+Step 593
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 642.5
+
+Step 594
+
+Current state: C, D, D, D
+
+Action: left
+
+Updated state: B, D, D, D
+
+Score: 642.0
+
+Step 595
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 643.0
+
+Step 596
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 644.0
+
+Step 597
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 645.0
+
+Step 598
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 645.5
+
+Step 599
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 647.5
+
+Step 600
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 649.5
+
+Step 601
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 651.5
+
+Step 602
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 653.5
+
+Step 603
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 655.5
+
+Step 604
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 657.5
+
+Step 605
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 659.5
+
+Step 606
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 661.5
+
+Step 607
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 663.5
+
+Step 608
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 665.5
+
+Step 609
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 667.5
+
+Step 610
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 669.5
+
+Step 611
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 670.5
+
+Step 612
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 671.5
+
+Step 613
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 672.5
+
+Step 614
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 673.5
+
+Step 615
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 674.5
+
+Step 616
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 674.5
+
+Step 617
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 675.5
+
+Step 618
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 676.5
+
+Step 619
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 677.5
+
+Step 620
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 678.5
+
+Step 621
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 679.5
+
+Step 622
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 680.5
+
+Step 623
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 681.5
+
+Step 624
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 682.5
+
+Step 625
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 683.5
+
+Step 626
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 684.5
+
+Step 627
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 685.5
+
+Step 628
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 686.5
+
+Step 629
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 687.5
+
+Step 630
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 688.5
+
+Step 631
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 689.5
+
+Step 632
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 690.5
+
+Step 633
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 691.5
+
+Step 634
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 692.5
+
+Step 635
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 693.5
+
+Step 636
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 694.5
+
+Step 637
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 695.5
+
+Step 638
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 696.5
+
+Step 639
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 697.5
+
+Step 640
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 698.5
+
+Step 641
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 699.5
+
+Step 642
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 700.5
+
+Step 643
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 701.5
+
+Step 644
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 702.5
+
+Step 645
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 703.5
+
+Step 646
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 704.5
+
+Step 647
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 705.5
+
+Step 648
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 706.5
+
+Step 649
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 707.5
+
+Step 650
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 708.5
+
+Step 651
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 709.5
+
+Step 652
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 710.5
+
+Step 653
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 711.5
+
+Step 654
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 712.5
+
+Step 655
+
+Current state: A, D, D, D
+
+Action: right
+
+Updated state: B, D, D, D
+
+Score: 712.0
+
+Step 656
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 713.0
+
+Step 657
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 714.0
+
+Step 658
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 715.0
+
+Step 659
+
+Current state: B, D, D, D
+
+Action: right
+
+Updated state: C, D, D, D
+
+Score: 714.5
+
+Step 660
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 715.5
+
+Step 661
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 716.5
+
+Step 662
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 717.5
+
+Step 663
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 718.5
+
+Step 664
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 719.5
+
+Step 665
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 720.5
+
+Step 666
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 721.5
+
+Step 667
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 722.5
+
+Step 668
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 723.5
+
+Step 669
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 724.5
+
+Step 670
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 725.5
+
+Step 671
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 726.5
+
+Step 672
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 727.5
+
+Step 673
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 728.5
+
+Step 674
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 729.5
+
+Step 675
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 730.5
+
+Step 676
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 731.5
+
+Step 677
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 732.5
+
+Step 678
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 733.5
+
+Step 679
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 734.5
+
+Step 680
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 735.5
+
+Step 681
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 736.5
+
+Step 682
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 737.5
+
+Step 683
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 738.5
+
+Step 684
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 739.5
+
+Step 685
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 740.5
+
+Step 686
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 741.5
+
+Step 687
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 742.5
+
+Step 688
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 743.5
+
+Step 689
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 744.5
+
+Step 690
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 745.5
+
+Step 691
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 746.5
+
+Step 692
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 747.5
+
+Step 693
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 748.5
+
+Step 694
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 749.5
+
+Step 695
+
+Current state: C, D, D, C
+
+Action: left
+
+Updated state: B, D, D, C
+
+Score: 750.0
+
+Step 696
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 752.0
+
+Step 697
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 754.0
+
+Step 698
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 756.0
+
+Step 699
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 758.0
+
+Step 700
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 760.0
+
+Step 701
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 762.0
+
+Step 702
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 764.0
+
+Step 703
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 766.0
+
+Step 704
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 768.0
+
+Step 705
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 770.0
+
+Step 706
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 772.0
+
+Step 707
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 773.0
+
+Step 708
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 774.0
+
+Step 709
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 775.0
+
+Step 710
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 776.0
+
+Step 711
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 777.0
+
+Step 712
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 778.0
+
+Step 713
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 779.0
+
+Step 714
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 779.5
+
+Step 715
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 781.5
+
+Step 716
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 783.5
+
+Step 717
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 785.5
+
+Step 718
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 787.5
+
+Step 719
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 789.5
+
+Step 720
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 791.5
+
+Step 721
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 793.5
+
+Step 722
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 795.5
+
+Step 723
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 797.5
+
+Step 724
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 799.5
+
+Step 725
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 801.5
+
+Step 726
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 803.5
+
+Step 727
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 805.5
+
+Step 728
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 807.5
+
+Step 729
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 809.5
+
+Step 730
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 811.5
+
+Step 731
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 813.5
+
+Step 732
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 815.5
+
+Step 733
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 817.5
+
+Step 734
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 818.5
+
+Step 735
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 819.5
+
+Step 736
+
+Current state: C, D, D, C
+
+Action: no-op
+
+Updated state: C, D, D, C
+
+Score: 820.5
+
+Step 737
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 821.5
+
+Step 738
+
+Current state: C, D, D, D
+
+Action: left
+
+Updated state: B, D, D, D
+
+Score: 821.0
+
+Step 739
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 822.0
+
+Step 740
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 823.0
+
+Step 741
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 824.0
+
+Step 742
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 825.0
+
+Step 743
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 826.0
+
+Step 744
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 827.0
+
+Step 745
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 828.0
+
+Step 746
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 829.0
+
+Step 747
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 830.0
+
+Step 748
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 831.0
+
+Step 749
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 832.0
+
+Step 750
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 833.0
+
+Step 751
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 834.0
+
+Step 752
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 835.0
+
+Step 753
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 836.0
+
+Step 754
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 837.0
+
+Step 755
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 837.5
+
+Step 756
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 839.5
+
+Step 757
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 841.5
+
+Step 758
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 843.5
+
+Step 759
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 845.5
+
+Step 760
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 847.5
+
+Step 761
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 848.5
+
+Step 762
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 849.5
+
+Step 763
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 850.5
+
+Step 764
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 851.5
+
+Step 765
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 852.5
+
+Step 766
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 853.5
+
+Step 767
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 854.5
+
+Step 768
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 855.5
+
+Step 769
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 856.5
+
+Step 770
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 857.5
+
+Step 771
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 857.5
+
+Step 772
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 858.5
+
+Step 773
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 859.5
+
+Step 774
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 860.5
+
+Step 775
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 861.5
+
+Step 776
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 862.5
+
+Step 777
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 863.5
+
+Step 778
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 864.5
+
+Step 779
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 865.5
+
+Step 780
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 866.5
+
+Step 781
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 867.5
+
+Step 782
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 868.5
+
+Step 783
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 869.5
+
+Step 784
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 870.5
+
+Step 785
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 871.5
+
+Step 786
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 872.5
+
+Step 787
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 873.5
+
+Step 788
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 874.5
+
+Step 789
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 875.5
+
+Step 790
+
+Current state: A, D, D, D
+
+Action: right
+
+Updated state: B, D, D, D
+
+Score: 875.0
+
+Step 791
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 876.0
+
+Step 792
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 877.0
+
+Step 793
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 878.0
+
+Step 794
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 879.0
+
+Step 795
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 879.5
+
+Step 796
+
+Current state: C, D, C, D
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 881.5
+
+Step 797
+
+Current state: C, D, C, C
+
+Action: suck
+
+Updated state: C, D, C, C
+
+Score: 883.5
+
+Step 798
+
+Current state: C, D, C, D
+
+Action: left
+
+Updated state: B, D, C, D
+
+Score: 884.0
+
+Step 799
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 885.0
+
+Step 800
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 886.0
+
+Step 801
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 887.0
+
+Step 802
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 888.0
+
+Step 803
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 889.0
+
+Step 804
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 890.0
+
+Step 805
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 890.5
+
+Step 806
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 892.5
+
+Step 807
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 894.5
+
+Step 808
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 896.5
+
+Step 809
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 898.5
+
+Step 810
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 900.5
+
+Step 811
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 901.5
+
+Step 812
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 902.5
+
+Step 813
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 903.5
+
+Step 814
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 904.5
+
+Step 815
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 905.5
+
+Step 816
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 906.5
+
+Step 817
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 907.5
+
+Step 818
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 908.5
+
+Step 819
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 909.5
+
+Step 820
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 910.5
+
+Step 821
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 911.5
+
+Step 822
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 912.5
+
+Step 823
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 913.5
+
+Step 824
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 914.5
+
+Step 825
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 915.5
+
+Step 826
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 916.5
+
+Step 827
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 917.5
+
+Step 828
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 918.5
+
+Step 829
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 919.5
+
+Step 830
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 920.5
+
+Step 831
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 921.5
+
+Step 832
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 922.5
+
+Step 833
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 923.5
+
+Step 834
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 924.5
+
+Step 835
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 925.5
+
+Step 836
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 926.0
+
+Step 837
+
+Current state: B, C, D, D
+
+Action: left
+
+Updated state: A, C, D, D
+
+Score: 926.5
+
+Step 838
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 927.5
+
+Step 839
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 928.5
+
+Step 840
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 929.5
+
+Step 841
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 930.5
+
+Step 842
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 931.5
+
+Step 843
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 932.5
+
+Step 844
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 933.5
+
+Step 845
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 934.5
+
+Step 846
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 935.5
+
+Step 847
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 936.5
+
+Step 848
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 937.5
+
+Step 849
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 938.5
+
+Step 850
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 939.5
+
+Step 851
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 940.5
+
+Step 852
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 941.5
+
+Step 853
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 941.5
+
+Step 854
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 942.5
+
+Step 855
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 943.5
+
+Step 856
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 944.5
+
+Step 857
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 945.5
+
+Step 858
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 946.5
+
+Step 859
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 947.5
+
+Step 860
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 947.5
+
+Step 861
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 948.5
+
+Step 862
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 949.5
+
+Step 863
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 950.5
+
+Step 864
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 951.5
+
+Step 865
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 952.5
+
+Step 866
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 953.5
+
+Step 867
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 954.5
+
+Step 868
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 955.5
+
+Step 869
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 956.5
+
+Step 870
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 957.5
+
+Step 871
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 958.5
+
+Step 872
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 959.5
+
+Step 873
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 960.5
+
+Step 874
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 961.5
+
+Step 875
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 962.5
+
+Step 876
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 963.5
+
+Step 877
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 964.5
+
+Step 878
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 965.5
+
+Step 879
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 966.5
+
+Step 880
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 967.5
+
+Step 881
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 968.5
+
+Step 882
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 969.5
+
+Step 883
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 970.5
+
+Step 884
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 970.5
+
+Step 885
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 971.5
+
+Step 886
+
+Current state: A, C, D, D
+
+Action: right
+
+Updated state: B, C, D, D
+
+Score: 972.0
+
+Step 887
+
+Current state: B, C, D, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 974.0
+
+Step 888
+
+Current state: B, C, C, D
+
+Action: suck
+
+Updated state: B, C, C, D
+
+Score: 976.0
+
+Step 889
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 977.0
+
+Step 890
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 978.0
+
+Step 891
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 979.0
+
+Step 892
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 980.0
+
+Step 893
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 981.0
+
+Step 894
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 982.0
+
+Step 895
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 983.0
+
+Step 896
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 984.0
+
+Step 897
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 985.0
+
+Step 898
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 986.0
+
+Step 899
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 987.0
+
+Step 900
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 988.0
+
+Step 901
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 989.0
+
+Step 902
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 990.0
+
+Step 903
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 991.0
+
+Step 904
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 992.0
+
+Step 905
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 993.0
+
+Step 906
+
+Current state: B, D, C, D
+
+Action: right
+
+Updated state: C, D, C, D
+
+Score: 993.5
+
+Step 907
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 994.5
+
+Step 908
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 995.5
+
+Step 909
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 996.5
+
+Step 910
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 997.5
+
+Step 911
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 998.5
+
+Step 912
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 999.5
+
+Step 913
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1000.5
+
+Step 914
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1001.5
+
+Step 915
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1002.5
+
+Step 916
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1003.5
+
+Step 917
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1004.5
+
+Step 918
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1005.5
+
+Step 919
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1006.5
+
+Step 920
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1007.5
+
+Step 921
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1008.5
+
+Step 922
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1009.5
+
+Step 923
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1010.5
+
+Step 924
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1011.5
+
+Step 925
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1012.5
+
+Step 926
+
+Current state: C, D, D, D
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1013.5
+
+Step 927
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1014.5
+
+Step 928
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1015.5
+
+Step 929
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1016.5
+
+Step 930
+
+Current state: C, D, D, C
+
+Action: suck
+
+Updated state: C, D, D, C
+
+Score: 1017.5
+
+Step 931
+
+Current state: C, D, D, C
+
+Action: left
+
+Updated state: B, D, D, C
+
+Score: 1018.0
+
+Step 932
+
+Current state: B, D, D, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 1020.0
+
+Step 933
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 1022.0
+
+Step 934
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 1024.0
+
+Step 935
+
+Current state: B, D, C, C
+
+Action: suck
+
+Updated state: B, D, C, C
+
+Score: 1026.0
+
+Step 936
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1027.0
+
+Step 937
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1028.0
+
+Step 938
+
+Current state: B, D, C, D
+
+Action: no-op
+
+Updated state: B, D, C, D
+
+Score: 1029.0
+
+Step 939
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1030.0
+
+Step 940
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1031.0
+
+Step 941
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1032.0
+
+Step 942
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1033.0
+
+Step 943
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1034.0
+
+Step 944
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1035.0
+
+Step 945
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1036.0
+
+Step 946
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1037.0
+
+Step 947
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1038.0
+
+Step 948
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1039.0
+
+Step 949
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1040.0
+
+Step 950
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1041.0
+
+Step 951
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1042.0
+
+Step 952
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1043.0
+
+Step 953
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1044.0
+
+Step 954
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1045.0
+
+Step 955
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1046.0
+
+Step 956
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1047.0
+
+Step 957
+
+Current state: B, D, D, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1048.0
+
+Step 958
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1049.0
+
+Step 959
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1050.0
+
+Step 960
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1051.0
+
+Step 961
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1052.0
+
+Step 962
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1053.0
+
+Step 963
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1054.0
+
+Step 964
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1055.0
+
+Step 965
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1056.0
+
+Step 966
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1057.0
+
+Step 967
+
+Current state: B, D, C, D
+
+Action: suck
+
+Updated state: B, D, C, D
+
+Score: 1058.0
+
+Step 968
+
+Current state: B, D, C, D
+
+Action: left
+
+Updated state: A, D, C, D
+
+Score: 1058.5
+
+Step 969
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1060.5
+
+Step 970
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1062.5
+
+Step 971
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1064.5
+
+Step 972
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1066.5
+
+Step 973
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1068.5
+
+Step 974
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1070.5
+
+Step 975
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1072.5
+
+Step 976
+
+Current state: A, D, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1074.5
+
+Step 977
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1076.5
+
+Step 978
+
+Current state: A, C, C, D
+
+Action: suck
+
+Updated state: A, C, C, D
+
+Score: 1078.5
+
+Step 979
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1079.5
+
+Step 980
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1080.5
+
+Step 981
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1081.5
+
+Step 982
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1082.5
+
+Step 983
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1083.5
+
+Step 984
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1084.5
+
+Step 985
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1085.5
+
+Step 986
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1086.5
+
+Step 987
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1087.5
+
+Step 988
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1088.5
+
+Step 989
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1089.5
+
+Step 990
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1090.5
+
+Step 991
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1091.5
+
+Step 992
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1092.5
+
+Step 993
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1093.5
+
+Step 994
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1094.5
+
+Step 995
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1095.5
+
+Step 996
+
+Current state: A, D, D, D
+
+Action: no-op
+
+Updated state: A, D, D, D
+
+Score: 1095.5
+
+Step 997
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1096.5
+
+Step 998
+
+Current state: A, D, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1097.5
+
+Step 999
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1098.5
+
+Step 1000
+
+Current state: A, C, D, D
+
+Action: suck
+
+Updated state: A, C, D, D
+
+Score: 1099.5
+

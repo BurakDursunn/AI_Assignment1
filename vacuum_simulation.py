@@ -111,10 +111,8 @@ def run_simulation(agent, room_A, room_B, room_C, step, file_name, vacuum_ai):
     # Update the Q-values using the RewardBasedAI object
     reward = agent.get_current_score()
     next_room = agent.get_current_room().get_room_letter()
-    vacuum_ai.update_q_values(current_room, next_room, action, reward)
-
-    # Save the updated Q-values to a variable called "guesses"
-    guesses = vacuum_ai.q_values
+    vacuum_ai.update_q_values(current_room, next_room,
+                              action, reward, agent.get_agent_name())
 
     # Get updated state of the rooms and agent, syntax string "agent.current_room, room_A.is_dirty, room_B.is_dirty, room_C.is_dirty"
     updated_state = "{}, {}, {}, {}".format(agent.get_current_room(
@@ -138,7 +136,6 @@ def run_simulation(agent, room_A, room_B, room_C, step, file_name, vacuum_ai):
         f.write("Current state: {}\n\n".format(current_state))
         f.write("Action: {}\n\n".format(action))
         f.write("Updated state: {}\n\n".format(updated_state))
-        f.write("Current guesses: {}\n\n".format(guesses))
         f.write("Score: {}\n\n".format(score))
 
 

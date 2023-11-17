@@ -41,11 +41,18 @@ class VacuumAI:
             elif current_room == "C":
                 return self.enum_to_str(np.argmax(self.q_values[enum_room["C"]]), "action")
 
-    def update_q_values(self, current_room, next_room, action, reward):
+    def update_q_values(self, current_room, next_room, action, reward, agent_name):
+        # If agent is B, then update the q values, else icrement punishment
+        reward_q = reward
+        if agent_name == "B":
+            if action == "left" or action == "right":
+                reward_q = reward - 0.5
+            else:
+                reward_q = reward
         current_q = self.q_values[enum_room[current_room]][enum_action[action]]
         best_next_q = max(self.q_values[enum_room[next_room]])
         self.q_values[enum_room[current_room]][enum_action[action]] = current_q + self.learning_rate * (
-            reward + self.discount_factor * best_next_q - current_q)
+            reward_q + self.discount_factor * best_next_q - current_q)
 
     def enum_to_str(self, num, type):
         if type == "room":
